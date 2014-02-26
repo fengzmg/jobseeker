@@ -8,3 +8,4 @@ History
 
 * First release on PyPI.
 * Initial commit.
+* lay the ground for the initial project
