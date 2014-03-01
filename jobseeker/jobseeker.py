@@ -69,7 +69,7 @@ def command_line_runner():
 
 def app_config():
     #config the logger
-    logging.basicConfig(filename='../log/jobseeker.log',level=logging.DEBUG)
+    logging.basicConfig(filename='../logs/jobseeker.log',level=logging.DEBUG)
 
 if __name__ == '__main__':
     app_config()
