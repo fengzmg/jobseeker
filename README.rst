@@ -34,6 +34,7 @@ Sampe Usage
 --------
 
 Sample Usage is::
+    
     python jobseeker.py search -k python -l singapore -n 2
     ===============================================================================
     ID: 1    Source: JP Morgan Chase                      Posted: 22 days ago
