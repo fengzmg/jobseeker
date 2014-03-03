@@ -12,7 +12,6 @@ import unittest
 
 from jobseeker import jobseeker
 
-
 class TestJobseeker(unittest.TestCase):
 
     def setUp(self):
