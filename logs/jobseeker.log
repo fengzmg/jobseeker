@@ -1,0 +1,3444 @@
+INFO:root:making http request to { url: http://www.recruit.net/search.html, user_agent: Mozilla/5.0 (Windows; Windows NT 6.1) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.46 Safari/536.5 }
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.recruit.net
+DEBUG:requests.packages.urllib3.connectionpool:"GET /search.html?query=python&location=china HTTP/1.1" 200 None
+DEBUG:root:
+
+  
+
+
+     
+<!doctype html>
+<html>
+	<head>
+		
+
+
+
+
+	<link rel="next" href="search.html?query=python&amp;location=china&amp;pageNo=2"/>
+
+		
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+		<meta http-equiv="content-language" content="en, ZH, JA, VI, TH, NL">
+		
+		<link rel="canonical" href="search-python_in_china-jobs">
+		<title>Python  Jobs  | Recruit.net</title>
+		<meta name="description" content="Imagine what you can do here. Companies  in china like Standard Chartered, Intel and Societe Generale are hiring now.">
+		<meta name="keywords" content="python Jobs in  china, job search engine, find jobs, career, employment, job listings, Recruit.net">
+		
+
+  
+
+
+	
+		<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	
+	
+  
+
+
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+var pluginUrl = 
+	'//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+_gaq.push(['_setAccount', 'UA-289804-6']);
+_gaq.push(['_setDomainName', '.recruit.net']);
+_gaq.push(['_setSiteSpeedSampleRate', 100]);
+
+
+
+
+
+
+// track current page
+_gaq.push(['_setCustomVar', 2, 'Country Selection', 'International', 2]);
+_gaq.push(['_trackPageview']);
+
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:'==document.location.protocol ? 'https://ssl':'http://www')+'.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<link rel="icon" href="http://cdn.recruitnet.co/2.0/img/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+	var stylesheet = document.createElement('link');
+	stylesheet.href = 'http://cdn.recruitnet.co/2.0/css/search-20140228.css';
+	stylesheet.rel = 'stylesheet';
+	stylesheet.type = 'text/css';
+	document.getElementsByTagName('head')[0].appendChild(stylesheet);
+	
+	var stylesheet2 = document.createElement('link');
+	stylesheet2.href = 'http://cdn.recruitnet.co/2.0/css/fontello-20140228.css';
+	stylesheet2.rel = 'stylesheet';
+	stylesheet2.type = 'text/css';
+	document.getElementsByTagName('head')[0].appendChild(stylesheet2);
+</script>
+
+
+		<link rel="alternate" type="application/rss+xml" title="python  in	 china - recruit.net" href='/rss.html?query=python&amp;location=china' />		
+	</head>
+	<body>
+		
+		
+
+  
+
+
+
+
+			<div class="hide-from-all" id="flyout">
+				<div class="all-star">
+				<a class="selected" href="/search.html?query=&amp;location="><i class="icon-search-2"></i> All Jobs</a>
+				<a href="/my_jobs.html" rel="nofollow"><i class="icon-star"></i> Starred Jobs</a>
+				</div>
+				
+				
+				
+				
+				<div class="filter">
+					<div class="filter_title postdate"><a href="#"><i class="icon-down-open"></i> Date Posted</a></div>
+					<div class="filter_values"><ul>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=1&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Last 24 hours">Last 24 hours (1)</a></li>
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=7&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Last 7 days">Last 7 days (9)</a></li>
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=15&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Last 15 days">Last 15 days (12)</a></li>
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="All jobs">All jobs (19)</a></li>
+					</ul></div>
+				</div>
+				<div class="filter">
+					<div class="filter_title company"><a href="#"><i class="icon-down-open"></i> Company</a></div>
+					<div class="filter_values"><ul>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=Intel&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Intel">Intel (9)</a></li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=IBM&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="IBM">IBM (1)</a></li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=HAYS&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="HAYS">HAYS (1)</a></li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=Yahoo%21&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Yahoo!">Yahoo! (1)</a></li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=Standard+Chartered&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Standard Chartered">Standard Chartered (1)</a></li>
+						
+						<li><a rel="nofollow" class="show_more" href="#">Show more &raquo;</a>
+						</ul><ul class="other_filters" style="display:none">
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=Societe+Generale&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Societe Generale">Societe Generale (1)</a></li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=Citi&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Citi">Citi (1)</a></li>
+						
+					</ul></div>
+				</div>
+				<div class="filter">
+					<div class="filter_title title"><a href="#"><i class="icon-down-open"></i> Job Title</a></div>
+					<div class="filter_values"><ul>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Wireless+Performance+Engineer+%28OAG%29&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Wireless Performance Engineer (OAG)">Wireless Performance  (2)</a></li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Technical+Writer&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Technical Writer">Technical Writer (1)</a></li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Sr.+Software+Developer&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Sr. Software Developer">Sr. Software Develope (1)</a></li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Sr+Software+Developer&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Sr Software Developer">Sr Software Developer (1)</a></li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Software+Engineer%2FQuality+Engineer&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Software Engineer/Quality Engineer">Software Engineer/Qua (1)</a></li>
+						
+						<li><a rel="nofollow" class="show_more" href="#">Show more &raquo;</a>
+						</ul><ul class="other_filters" style="display:none">
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Software+Engineer+Trainee-+Global+Investment+Bank&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Software Engineer Trainee- Global Investment Bank">Software Engineer Tra (1)</a></li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Senior+Software+Engineer&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Senior Software Engineer">Senior Software Engin (1)</a></li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Scientist&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Scientist">Scientist (1)</a></li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Media+Software+Development+Intern&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Media Software Development Intern">Media Software Develo (1)</a></li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Market+Access+Developer+M%2FF+-+VIE+Hong+Kong&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Market Access Developer M/F - VIE Hong Kong">Market Access Develop (1)</a></li>
+						
+					</ul></div>
+				</div>
+				<div class="filter">
+					<div class="filter_title region"><a href="#"><i class="icon-down-open"></i> Country</a></div>
+					<div class="filter_values"><ul>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=cn&amp;dup=false&s=" title="China">China (18)</a></li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=uk&amp;dup=false&s=" title="UK">UK (1)</a></li>
+						
+					</ul></div>
+				</div>
+				
+				<div class="filter">
+					<div class="filter_title type"><a href="#"><i class="icon-down-open"></i> Job Type</a></div>
+					<div class="filter_values"><ul>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=Full-time&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Full-time">Full-time (3)</a></li>
+					</ul></div>
+				</div>
+				<div class="filter">
+					<div class="filter_title source"><a href="#"><i class="icon-down-open"></i> Employer/Recruiter</a></div>					
+					<div class="filter_values"><ul>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=company&amp;f_region=&amp;dup=false&s=" title="Companies">Employer (16)</a></li>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=agency&amp;f_region=&amp;dup=false&s=" title="Recruiters">Recruiter (1)</a></li>						
+					</ul></div>					
+				</div>
+				<div class="filter">
+					<div class="filter_title experience"><a href="#"><i class="icon-down-open"></i> Experience</a></div>
+					<div class="filter_values"><ul>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=1&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="0 to 2 years">0 to 2 years (1)</a></li>
+					</ul></div>
+				</div>
+							
+			</div>
+		<div id="content">
+			<div id="fb-root"></div>
+			<script>(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  
+			  
+			  
+			  
+			  
+			  
+			  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=119226341437457";
+			  
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+			
+
+  
+
+
+
+
+		<!--  top blue bar starts -->
+		<div class="top-bar">
+			
+			<!--  Change country starts -->
+			<div class="change-country">
+				<div class="change-country-label hidden-phone">Change Country:</div>
+				<div class="btn-group">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#"><b id="current-country">International</b>
+				  	<i class="icon-globe icon-white"></i>
+		    		 <i class="icon-chevron-down icon-white"></i></a>
+				    <ul class="dropdown-menu country-dropdown-menu">
+				    	
+				    		
+				    		<li>
+					    		<a data-country="Australia" href="http://australia.recruit.net/search.html?query=python"><span class="icon-flag-AU"></span> Australia</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="Canada" href="http://canada.recruit.net/search.html?query=python"><span class="icon-flag-CA"></span> Canada</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="China" href="http://china.recruit.net/search.html?query=python"><span class="icon-flag-CN"></span> China</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="Hong Kong" href="http://hongkong.recruit.net/search.html?query=python"><span class="icon-flag-HK"></span> Hong Kong</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="India" href="http://india.recruit.net/search.html?query=python"><span class="icon-flag-IN"></span> India</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="Japan" href="http://japan.recruit.net/search.html?query=python"><span class="icon-flag-JP"></span> Japan</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="Malaysia" href="http://malaysia.recruit.net/search.html?query=python"><span class="icon-flag-MY"></span> Malaysia</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="New Zealand" href="http://newzealand.recruit.net/search.html?query=python"><span class="icon-flag-NZ"></span> New Zealand</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="Singapore" href="http://singapore.recruit.net/search.html?query=python"><span class="icon-flag-SG"></span> Singapore</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="UK" href="http://uk.recruit.net/search.html?query=python"><span class="icon-flag-GB"></span> UK</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="USA" href="http://usa.recruit.net/search.html?query=python"><span class="icon-flag-US"></span> USA</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="Thailand" href="http://thailand.recruit.net/search.html?query=python"><span class="icon-flag-TH"></span> Thailand</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="Vietnam" href="http://vietnam.recruit.net/search.html?query=python"><span class="icon-flag-VN"></span> Vietnam</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="Philippines" href="http://philippines.recruit.net/search.html?query=python"><span class="icon-flag-PH"></span> Philippines</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="Indonesia" href="http://id.recruit.net/search.html?query=python"><span class="icon-flag-ID"></span> Indonesia</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="Ireland" href="http://ie.recruit.net/search.html?query=python"><span class="icon-flag-IE"></span> Ireland</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="South Africa" href="http://za.recruit.net/search.html?query=python"><span class="icon-flag-ZA"></span> South Africa</a>
+							</li>
+						
+				    		
+				    		<li>
+					    		<a data-country="Netherlands" href="http://nl.recruit.net/search.html?query=python"><span class="icon-flag-NL"></span> Netherlands</a>
+							</li>
+						
+				    		<li>
+					    		<a data-country="International" href="http://www.recruit.net/search.html?query=python"><i class="icon-globe"></i> International</a>
+							</li>
+				    		
+						
+				  	</ul>
+				</div>				
+			</div><!--  Change country ends -->
+			
+			<div class="user-control">
+				
+					<span class="hidden-phone"><a href="https://secure.recruit.net/recruit/candidate/newAccount.do?source=search_page&amp;locale=en">Post your resume</a></span> <span class="hidden-phone">|</span> 
+					 
+					<span><a href="http://www.recruit.net/login.html">Sign In</a></span>
+				
+			</div>
+		</div><!--  top blue bar ends -->
+			
+
+  
+
+
+
+
+		<div id="header">
+			<a class="branding-phone visible-phone" id="branding" href="http://www.recruit.net/"><img src="http://cdn.recruitnet.co/2.0/img/logo-phone.png" alt=""></a>
+			<a class="hidden-phone" id="branding" href="http://www.recruit.net/"><img src="http://cdn.recruitnet.co/2.0/img/logo-4.png" alt=""></a>
+			<form class="form-inline hidden-phone" id="search" action="http://www.recruit.net//search.html" method="get">
+				<!-- Desktop version -->
+				<input type="text" id="query" name="query" value="python" placeholder="Keywords, title or company"></input>					
+				<input type="text" id="location" name="location" value="china" placeholder="City, state or location"></input>
+				<input type="hidden" name=s value="">
+				<button class="btn btn-primary search-btn visible-desktop">Find Jobs</button>
+				<button class="btn btn-primary search-btn visible-tablet"><i class="icon-search-1"></i></button>
+				<a class="advanced_search visible-desktop" href="http://www.recruit.net/advanced_search.html">advanced search</a>				
+			</form>
+			<form class="form-inline visible-phone" id="search" action="http://www.recruit.net//search.html" method="get">
+				<!-- Mobile version --> 
+				<input type="text" id="query" name="query" value="python" placeholder="Keywords, title or company"></input>					
+				<input type="text" id="location" name="location" value="china" placeholder="City, state or location"></input>
+				<input type="hidden" name=s value="">
+				<button class="btn btn-primary search-btn"><i class="icon-search-1"></i></button>
+			</form>
+		</div>	
+			
+  
+
+
+
+
+		<div id="mobile-bar" class="hidden-desktop">
+			<div id="flyout-btn" class="bar-elem">
+				<a href=""><i class="icon-filter"></i> Filters</a>
+			</div>
+			<div class="bar-elem">
+				<span class="visible-tablet">Sort by</span> 
+				
+					<div class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="#"><i class="icon-down-dir"></i> Relevance</a>
+						<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+							<li><a rel="nofollow" href=""><b>Relevance</b></a></li>
+							<li><a rel="nofollow" href='search.html?query=python&amp;location=china&amp;postdate=30&amp;hitsPerPage=10&amp;dedup=true&amp;jobRef=&amp;sortby=date&amp;d=r&amp;pageNo=1&amp;f_company=&amp;f_region=&amp;f_location=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false'>Date</a></li>
+						</ul>
+					</div>
+				
+			</div>
+			<div class="bar-elem">
+				<div class="visible-phone"><a href="" id="social-conn"><i class="icon-users-1"></i> Social Connections</a></div>
+				<div class="visible-tablet">
+				
+				<a href="facebooklogin.html?source=switch&return=search.html%3Fquery%3Dpython%26location%3Dchina" class="btn"><i class="icon-facebook"></i></a> 
+				<a href="linkedinlogin.html?source=switch&return=search.html%3Fquery%3Dpython%26location%3Dchina" class="btn"><i class="icon-linkedin"></i></a> 
+				<a href="#" id="tablet-social-conn">Social Connections</a></div>
+			</div>
+		</div>
+			
+			
+			
+			
+  
+
+
+
+
+				<form class="email-alert hidden-desktop" action="create_email_alert.html">
+					<input type="hidden" name="query" value="python">
+					<input type="hidden" name="locale" value="en">
+					<input type="hidden" name="location" value="china">
+					<input type="hidden" name="region" value="all">
+					<input type="hidden" name="pos" value="1">
+					<input type="hidden" name="days" value="1234567">
+					<input type="hidden" name="send" value="send">
+					<div class="main-alert-area">
+						<a class="close" href="#">×</a>
+						<div class="main-alert-area-title"><i class="icon-envelope"></i> <b>Get new job alerts</b></div>
+						<div class="saving-msg" style="display:none;">Saving job alert ....</div>
+						<div class="error_msg" style="display:none;"></div>
+						<input placeholder="Your email address" name="email" type="text">
+						<button class="btn btn-success btn-large btn-create-alert" type="submit">Create</button>
+						<input type="hidden" name="language" value="en">
+					</div>	
+				</form>
+			
+			
+			<div id="main-content">
+				<div id="left-sidebar" class="visible-desktop">
+					
+
+  
+
+
+
+
+				<div class="all-star">
+				<ul>
+					<li><a id="all_jobs" class="selected" href="http://www.recruit.net/search.html?query=&amp;location="><i class="icon-search-2"></i> All Jobs</a></li>
+					<li><a id="starred_jobs" href="http://www.recruit.net/my_jobs.html" rel="nofollow"><i class="icon-star"></i> Starred Jobs</a></li>
+				</ul>
+				</div>
+				
+<div id="login-starred-jobs" class="login-star confirmbox clear-both" style="display: none;">
+	<a class="close" href="#">&times;</a>
+	<div class="title">Create a Recruit.net account</div>
+	<div>Save jobs and review them later. To save a job you must login:</div>
+	<div> 
+	<a class="btn btn-primary" href="http://www.recruit.net/login.html?myjobs=">Login</a>
+	<a class="btn" href="http://www.recruit.net/login.html?type=new&myjobs=">Create account</a>
+	</div>			
+</div>				
+					
+  
+
+
+
+
+				
+					
+  
+
+
+
+
+
+				
+				
+				<div class="filter">
+					<div class="filter_title postdate"><a href="#"><i class="icon-down-open"></i> Date Posted</a></div>
+					<div class="filter_values"><ul>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=1&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Last 24 hours">Last 24 hours</a> (1)</li>
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=7&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Last 7 days">Last 7 days</a> (9)</li>
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=15&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Last 15 days">Last 15 days</a> (12)</li>
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="All jobs">All jobs</a> (19)</li>
+					</ul></div>
+				</div>
+				<div class="filter">
+					<div class="filter_title company"><a href="#"><i class="icon-down-open"></i> Company</a></div>
+					<div class="filter_values"><ul>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=Intel&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Intel">Intel</a> (9)</li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=IBM&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="IBM">IBM</a> (1)</li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=HAYS&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="HAYS">HAYS</a> (1)</li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=Yahoo%21&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Yahoo!">Yahoo!</a> (1)</li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=Standard+Chartered&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Standard Chartered">Standard Chartered</a> (1)</li>
+						
+						<li><a rel="nofollow" class="show_more" href="#">Show more &raquo;</a>
+						</ul><ul class="other_filters" style="display:none">
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=Societe+Generale&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Societe Generale">Societe Generale</a> (1)</li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=Citi&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Citi">Citi</a> (1)</li>
+						
+					</ul></div>
+				</div>
+				<div class="filter">
+					<div class="filter_title title"><a href="#"><i class="icon-down-open"></i> Job Title</a></div>
+					<div class="filter_values"><ul>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Wireless+Performance+Engineer+%28OAG%29&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Wireless Performance Engineer (OAG)">Wireless Performance </a> (2)</li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Technical+Writer&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Technical Writer">Technical Writer</a> (1)</li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Sr.+Software+Developer&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Sr. Software Developer">Sr. Software Develope</a> (1)</li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Sr+Software+Developer&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Sr Software Developer">Sr Software Developer</a> (1)</li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Software+Engineer%2FQuality+Engineer&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Software Engineer/Quality Engineer">Software Engineer/Qua</a> (1)</li>
+						
+						<li><a rel="nofollow" class="show_more" href="#">Show more &raquo;</a>
+						</ul><ul class="other_filters" style="display:none">
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Software+Engineer+Trainee-+Global+Investment+Bank&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Software Engineer Trainee- Global Investment Bank">Software Engineer Tra</a> (1)</li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Senior+Software+Engineer&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Senior Software Engineer">Senior Software Engin</a> (1)</li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Scientist&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Scientist">Scientist</a> (1)</li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Media+Software+Development+Intern&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Media Software Development Intern">Media Software Develo</a> (1)</li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=Market+Access+Developer+M%2FF+-+VIE+Hong+Kong&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Market Access Developer M/F - VIE Hong Kong">Market Access Develop</a> (1)</li>
+						
+					</ul></div>
+				</div>
+				<div class="filter">
+					<div class="filter_title region"><a href="#"><i class="icon-down-open"></i> Country</a></div>
+					<div class="filter_values"><ul>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=cn&amp;dup=false&s=" title="China">China</a> (18)</li>
+						
+					
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=uk&amp;dup=false&s=" title="UK">UK</a> (1)</li>
+						
+					</ul></div>
+				</div>
+				
+				<div class="filter">
+					<div class="filter_title type"><a href="#"><i class="icon-down-open"></i> Job Type</a></div>
+					<div class="filter_values"><ul>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=Full-time&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="Full-time">Full-time</a> (3)</li>
+					</ul></div>
+				</div>
+				<div class="filter">
+					<div class="filter_title source"><a href="#"><i class="icon-down-open"></i> Employer/Recruiter</a></div>					
+					<div class="filter_values"><ul>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=company&amp;f_region=&amp;dup=false&s=" title="Companies">Employer</a> (16)</li>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=&amp;f_salary=&amp;f_type=&amp;f_source=agency&amp;f_region=&amp;dup=false&s=" title="Recruiters">Recruiter</a> (1)</li>						
+					</ul></div>					
+				</div>
+				<div class="filter">
+					<div class="filter_title experience"><a href="#"><i class="icon-down-open"></i> Experience</a></div>
+					<div class="filter_values"><ul>
+						<li><a rel="nofollow" href="search.html?query=python&amp;location=china&amp;f_title=&amp;f_location=&amp;distance=40&amp;f_company=&amp;postdate=30&amp;sortby=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;jobsite_filter=false&amp;f_experience=1&amp;f_salary=&amp;f_type=&amp;f_source=&amp;f_region=&amp;dup=false&s=" title="0 to 2 years">0 to 2 years</a> (1)</li>
+					</ul></div>
+				</div>
+				
+					<div class="link first"><a href="http://www.recruit.net/browse_jobs">Browse Jobs</a></div>
+					<div class="link"><a href="http://jobindex.recruit.net/international/">Job Index</a></div>
+				</div>
+				<div id="job-content">
+					
+					
+					<div class="upload-resume visible-desktop">
+						<a class="close" href="#">&times;</a>
+						<a href="https://secure.recruit.net/recruit/candidate/newAccount.do?source=button&amp;locale=en">
+							<img class="upload-resume-icon" src="http://cdn.recruitnet.co/2.0/img/upload-resume-2.png"/><span class="upload-resume-text">Upload Your Resume</span> - Let employers contact you directly
+						</a>	
+					</div>
+					
+					
+  
+
+
+
+
+				<div id="results-options">
+					<div style="float:left;">
+						Sort by
+						
+							<div class="dropdown" style="display: inline-block;">
+								<a class="dropdown-toggle" data-toggle="dropdown" href="#"><i class="icon-down-dir"></i> Relevance</a>
+								<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+									<li><a rel="nofollow" href=""><b>Relevance</b></a></li>
+									<li><a rel="nofollow" href='search.html?query=python&amp;location=china&amp;postdate=30&amp;hitsPerPage=10&amp;dedup=true&amp;jobRef=&amp;sortby=date&amp;d=r&amp;pageNo=1&amp;f_company=&amp;f_region=&amp;f_location=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false'>Date</a></li>
+								</ul>
+							</div>
+						
+					</div>
+					
+					<div class="show_options">
+						Jobs 1 to 10 of 19 jobs
+					</div>
+				</div>				
+					
+					
+					
+					
+					<div id="wide_ads_top" style="margin: 0;"></div>
+					
+					
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div id="job-content-0" class="main-job"> 
+		<div>
+			<div class="mobile-comp-logo">
+				<div class="comp-logo-frame">
+					<img title="" src="http://www.recruit.net/2.0/big-logos/22/2235.png">
+				</div>			
+			</div>
+			<div class="star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="172C9C31214D380A"><div class="star"></div></a>
+								
+			</div>
+			<div class="job organic" id="172C9C31214D380A" itemscope itemtype="http://schema.org/JobPosting">
+				<h2 itemprop="title"><a class='0' target="_blank" rel="nofollow" title="Developer - Enterprise Service Bus, Big Data" href='http://www.recruit.net/directjob.html?query=python&amp;location=china&amp;jobtitle=Developer+-+Enterprise+Service+Bus%2C+Big+Data&amp;region=all&amp;s=4728&amp;u=https%2Fcgportal.global.standardchartered.com%2Fpsc%2Fhrms%2FEMPLOYEE%2FHRMS%2Fc%2FHRS_HRAM.HRS_CE.GBL%3FPage%3DHRS_CE_JOB_DTL%26JobOpeningId%3D407058&amp;jobref=172C9C31214D380A'>Developer - Enterprise Service Bus, Big Data</a>
+				</h2>
+				<div class="main-content">
+					<h3>
+					<span class="company">
+					<a href="/company-Standard Chartered-jobs"><span itemprop="hiringOrganization" itemscope="http://schema.org/Organization"><span itemprop="name">Standard Chartered</span></span></a></span>
+					<span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/PostalAddress">
+					
+					(<span itemprop="addressLocality">Scope China</span>)
+					
+					
+					</span>
+					
+					</h3>
+					<div class="description" itemprop="description">
+						 business as part of the Financial Markets Production Support Engineering Team in <b>China</b>. PRISM is a new and exciting project aimed at allowing all stakeholders of...										
+					</div>
+					
+					<p class="cn_select">
+						<span class="icon-flag-CN"></span><a rel="nofollow" href="http://china.recruit.net/search.html?query=python&amp;location=china">View results from <span class="countryname">China</span> only</a></p>
+					
+										
+					<div class="source">Standard Chartered</div>
+					<div class="time" itemprop="datePosted" content="2014-03-01"> - 9 hours ago<span class="visible-desktop"> - </span></div>
+					<div class="extra_options">
+						<a rel="nofollow" href="#" class="share_job">Share</a> | 
+						<a rel="nofollow" href="#" class="flag_job">Flag</a>
+						<span class="flagged_job" style="display:none">Flagged</span> |  
+						<a rel="nofollow" href="#" class="more_tools">More Tools</a>
+					</div>
+				</div>
+				
+				<div class="comp-logo">
+					<div class="comp-logo-frame">
+						<img title="" src="http://www.recruit.net/2.0/big-logos/22/2235.png">
+					</div>			
+				</div> 
+				<div class="share_job_box clear-both" style="display: none;">
+					<ul class="nav nav-tabs">
+						<li class="active">
+					    	<a rel="nofollow" href="#">Email</a>
+					  	</li>
+					  	<li><a data-jobref="172C9C31214D380A" class="fb" target="_blank" rel="nofollow" href="http://www.facebook.com/sharer.php?u=http://www.recruit.net/job/developer--_scope-china_jobs/172C9C31214D380A">Facebook</a></li>
+					  	<li><a data-jobref="172C9C31214D380A" class="tw" target="_blank" rel="nofollow" href="http://twitter.com/share?count=none&amp;original_referer=http://www.recruit.net/job/developer--_scope-china_jobs/172C9C31214D380A&amp;text=Developer+- jobs in Scope+China on Recruit.net&amp;url=http://www.recruit.net/job/developer--_scope-china_jobs/172C9C31214D380A">Twitter</a></li>
+					  	<li><a data-jobref="172C9C31214D380A" class="ln" target="_blank" rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;url=http://www.recruit.net/job/developer--_scope-china_jobs/172C9C31214D380A&amp;title=Developer - Enterprise Service Bus, Big Data&amp;summary=business as part of the Financial Markets Production Support Engineering Team in China. PRISM is a new and exciting project aimed at allowing all stakeholders of...&amp;source=Recruit.net">LinkedIn</a></li>
+					  	<li><a data-jobref="172C9C31214D380A" class="gp" target="_blank" rel="nofollow" href="https://plus.google.com/share?url=http://www.recruit.net/job/developer--_scope-china_jobs/172C9C31214D380A">Google+</a></li>
+					</ul>
+					<form class="email-friend" method="post">
+						<a rel="nofollow" class="close" href="#">&times;</a>
+						<div class="email-friend-title">Email this job to a friend <span class="error" style="display:none;">(You must provide valid email Address)</span><span class="success_msg" style="display: none;">(Mail sent successfully)</span></div>
+						<div class="lbl" style="width:30%">Friend's email</div> <input type="text" name="email" class="email"><br/>
+						<div class="lbl" style="width:30%">Your email:</div> <input type="text" name="your_email" class="your_email"><br/>
+						<input type="submit" class="btn" value="Send"></input>
+						<input type="hidden" name="identifier" value="0"></input>
+						<input type="hidden" name="url" value="http://www.recruit.net/job/developer--_scope-china_jobs/172C9C31214D380A">
+						<input type="hidden" name="jobTitle" value="Developer - Enterprise Service Bus, Big Data"></input>
+						<input type="hidden" name="jobRef" value="172C9C31214D380A"></input>
+						<input type="hidden" name="query" value="python"></input>
+						<input type="hidden" name="location1" value="china"></input>
+						<input type="hidden" name="location" value="Scope China"></input>
+						<input type="hidden" name="company" value="Standard Chartered"></input>
+						<input type="hidden" name="postDate" value="20140301"></input>
+						<input type="hidden" name="locale" value="en"></input>
+						<input type="hidden" name="description" value="business as part of the Financial Markets Production Support Engineering Team in China. PRISM is a new and exciting project aimed at allowing all stakeholders of..."></input>	
+					</form>
+				</div>
+				<div class="flag_job_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<ul class="nav nav-pills">
+						<li class="title">Flag this job</li>
+						<li><a class="flag_this_job" reason="spam" href="#">scam/spam</a></li>
+					  	<li><a class="flag_this_job" reason="expired" href="#">expired</a></li>
+					  	<li><a class="flag_this_job" reason="broken_link" href="#">broken link</a></li>
+					  	<li><a class="flag_this_job" reason="duplicate" href="#">duplicate</a></li>
+					</ul>
+				</div>
+				<div class="more_tools_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="research">Research company on: <a class="r_google" target="_blank" rel="nofollow" href="http://www.google.com/search?q=Standard+Chartered">Google</a> - <a class="r_bing" target="_blank" rel="nofollow" href="http://www.bing.com/search?q=Standard+Chartered">Bing</a> - <a class="r_yahoo" target="_blank" rel="nofollow" href="http://search.yahoo.com/search?ei=UTF-8&amp;p=Standard+Chartered">Yahoo</a></div>
+					<div class="find_contacts">Find contacts at this company: <a class="r_linkedin" target="_blank" rel="nofollow" href="https://www.linkedin.com/search?search=&amp;company=Standard+Chartered">LinkedIn</a> - <a class="r_facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/search.php?q=Standard+Chartered&amp;type=users&amp;init=srp">Facebook</a></div>
+					<div>Show Job Trends for <a target="_blank" rel="nofollow" href="http://jobindex.recruit.net/international/?q=Developer+-+Enterprise+Service+Bus%2C+Big+Data">Developer - Enterprise Service Bus, Big Data Job Trends</a></div>
+					<div>View job summary <a target="_blank" rel="nofollow" href="http://www.recruit.net/job/developer--_scope-china_jobs/172C9C31214D380A">Developer - Enterprise Service Bus, Big Data Scope China</a></div>
+				</div>
+				
+				<div id="login-172C9C31214D380A" class="login-star confirmbox clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="title">Create a Recruit.net account</div>
+					<div>Save jobs and review them later. To save a job you must login:</div>
+					<div> 
+					<a class="btn btn-primary" href="http://www.recruit.net/login.html?jobRef=172C9C31214D380A">Login</a>
+					<a class="btn" href="http://www.recruit.net/login.html?type=new&amp;jobRef=172C9C31214D380A">Create account</a>
+					</div>			
+				</div>
+				
+				
+
+			
+				<div class="clear"></div>
+			</div>
+			<div class="mobile_star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="172C9C31214D380A"><div class="star"></div></a>
+				
+			</div>
+		</div>
+	</div>
+	
+		<div id="mobile_wide_ads_top"></div>
+	
+	
+
+
+	<div id="job-content-1" class="main-job"> 
+		<div>
+			<div class="mobile-comp-logo">
+				<div class="comp-logo-frame">
+					<img title="" src="http://www.recruit.net/2.0/big-logos/10/1053.png">
+				</div>			
+			</div>
+			<div class="star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="F3347E1CB842C1B9"><div class="star"></div></a>
+								
+			</div>
+			<div class="job organic" id="F3347E1CB842C1B9" itemscope itemtype="http://schema.org/JobPosting">
+				<h2 itemprop="title"><a class='1' target="_blank" rel="nofollow" title="Senior Software Engineer" href='http://www.recruit.net/directjob.html?query=python&amp;location=china&amp;jobtitle=Senior+Software+Engineer&amp;region=all&amp;s=3204&amp;u=https%2Fintel.taleo.net%2Fcareersection%2F10001%2Fjobdetail.ftl%3Fjob%3D750637&amp;jobref=F3347E1CB842C1B9'>Senior Software Engineer</a>
+				</h2>
+				<div class="main-content">
+					<h3>
+					<span class="company">
+					<a href="/company-Intel-jobs"><span itemprop="hiringOrganization" itemscope="http://schema.org/Organization"><span itemprop="name">Intel</span></span></a></span>
+					<span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/PostalAddress">
+					
+					(<span itemprop="addressLocality">ChinaPRC</span>)
+					
+					
+					</span>
+					
+					</h3>
+					<div class="description" itemprop="description">
+						 related open source software - Experienced with Yocto or Open Embedded system - Proficient in <b>Python</b> - Linux kernel understanding &nbsp; Full/Part Time &nbsp...										
+					</div>
+					
+					<p class="cn_select">
+						<span class="icon-flag-CN"></span><a rel="nofollow" href="http://china.recruit.net/search.html?query=python&amp;location=china">View results from <span class="countryname">China</span> only</a></p>
+					
+										
+					<div class="source">Intel</div>
+					<div class="time" itemprop="datePosted" content="2014-03-01"> - 2 days ago<span class="visible-desktop"> - </span></div>
+					<div class="extra_options">
+						<a rel="nofollow" href="#" class="share_job">Share</a> | 
+						<a rel="nofollow" href="#" class="flag_job">Flag</a>
+						<span class="flagged_job" style="display:none">Flagged</span> |  
+						<a rel="nofollow" href="#" class="more_tools">More Tools</a>
+					</div>
+				</div>
+				
+				<div class="comp-logo">
+					<div class="comp-logo-frame">
+						<img title="" src="http://www.recruit.net/2.0/big-logos/10/1053.png">
+					</div>			
+				</div> 
+				<div class="share_job_box clear-both" style="display: none;">
+					<ul class="nav nav-tabs">
+						<li class="active">
+					    	<a rel="nofollow" href="#">Email</a>
+					  	</li>
+					  	<li><a data-jobref="F3347E1CB842C1B9" class="fb" target="_blank" rel="nofollow" href="http://www.facebook.com/sharer.php?u=http://www.recruit.net/job/senior-software_chinaprc_jobs/F3347E1CB842C1B9">Facebook</a></li>
+					  	<li><a data-jobref="F3347E1CB842C1B9" class="tw" target="_blank" rel="nofollow" href="http://twitter.com/share?count=none&amp;original_referer=http://www.recruit.net/job/senior-software_chinaprc_jobs/F3347E1CB842C1B9&amp;text=Senior+Software jobs in ChinaPRC on Recruit.net&amp;url=http://www.recruit.net/job/senior-software_chinaprc_jobs/F3347E1CB842C1B9">Twitter</a></li>
+					  	<li><a data-jobref="F3347E1CB842C1B9" class="ln" target="_blank" rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;url=http://www.recruit.net/job/senior-software_chinaprc_jobs/F3347E1CB842C1B9&amp;title=Senior Software Engineer&amp;summary=related open source software - Experienced with Yocto or Open Embedded system - Proficient in Python - Linux kernel understanding &nbsp; Full/Part Time &nbsp...&amp;source=Recruit.net">LinkedIn</a></li>
+					  	<li><a data-jobref="F3347E1CB842C1B9" class="gp" target="_blank" rel="nofollow" href="https://plus.google.com/share?url=http://www.recruit.net/job/senior-software_chinaprc_jobs/F3347E1CB842C1B9">Google+</a></li>
+					</ul>
+					<form class="email-friend" method="post">
+						<a rel="nofollow" class="close" href="#">&times;</a>
+						<div class="email-friend-title">Email this job to a friend <span class="error" style="display:none;">(You must provide valid email Address)</span><span class="success_msg" style="display: none;">(Mail sent successfully)</span></div>
+						<div class="lbl" style="width:30%">Friend's email</div> <input type="text" name="email" class="email"><br/>
+						<div class="lbl" style="width:30%">Your email:</div> <input type="text" name="your_email" class="your_email"><br/>
+						<input type="submit" class="btn" value="Send"></input>
+						<input type="hidden" name="identifier" value="1"></input>
+						<input type="hidden" name="url" value="http://www.recruit.net/job/senior-software_chinaprc_jobs/F3347E1CB842C1B9">
+						<input type="hidden" name="jobTitle" value="Senior Software Engineer"></input>
+						<input type="hidden" name="jobRef" value="F3347E1CB842C1B9"></input>
+						<input type="hidden" name="query" value="python"></input>
+						<input type="hidden" name="location1" value="china"></input>
+						<input type="hidden" name="location" value="ChinaPRC"></input>
+						<input type="hidden" name="company" value="Intel"></input>
+						<input type="hidden" name="postDate" value="20140227"></input>
+						<input type="hidden" name="locale" value="en"></input>
+						<input type="hidden" name="description" value="related open source software - Experienced with Yocto or Open Embedded system - Proficient in Python - Linux kernel understanding &nbsp; Full/Part Time &nbsp..."></input>	
+					</form>
+				</div>
+				<div class="flag_job_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<ul class="nav nav-pills">
+						<li class="title">Flag this job</li>
+						<li><a class="flag_this_job" reason="spam" href="#">scam/spam</a></li>
+					  	<li><a class="flag_this_job" reason="expired" href="#">expired</a></li>
+					  	<li><a class="flag_this_job" reason="broken_link" href="#">broken link</a></li>
+					  	<li><a class="flag_this_job" reason="duplicate" href="#">duplicate</a></li>
+					</ul>
+				</div>
+				<div class="more_tools_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="research">Research company on: <a class="r_google" target="_blank" rel="nofollow" href="http://www.google.com/search?q=Intel">Google</a> - <a class="r_bing" target="_blank" rel="nofollow" href="http://www.bing.com/search?q=Intel">Bing</a> - <a class="r_yahoo" target="_blank" rel="nofollow" href="http://search.yahoo.com/search?ei=UTF-8&amp;p=Intel">Yahoo</a></div>
+					<div class="find_contacts">Find contacts at this company: <a class="r_linkedin" target="_blank" rel="nofollow" href="https://www.linkedin.com/search?search=&amp;company=Intel">LinkedIn</a> - <a class="r_facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/search.php?q=Intel&amp;type=users&amp;init=srp">Facebook</a></div>
+					<div>Show Job Trends for <a target="_blank" rel="nofollow" href="http://jobindex.recruit.net/international/?q=Senior+Software+Engineer">Senior Software Engineer Job Trends</a></div>
+					<div>View job summary <a target="_blank" rel="nofollow" href="http://www.recruit.net/job/senior-software_chinaprc_jobs/F3347E1CB842C1B9">Senior Software Engineer ChinaPRC</a></div>
+				</div>
+				
+				<div id="login-F3347E1CB842C1B9" class="login-star confirmbox clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="title">Create a Recruit.net account</div>
+					<div>Save jobs and review them later. To save a job you must login:</div>
+					<div> 
+					<a class="btn btn-primary" href="http://www.recruit.net/login.html?jobRef=F3347E1CB842C1B9">Login</a>
+					<a class="btn" href="http://www.recruit.net/login.html?type=new&amp;jobRef=F3347E1CB842C1B9">Create account</a>
+					</div>			
+				</div>
+				
+				
+
+			
+				<div class="clear"></div>
+			</div>
+			<div class="mobile_star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="F3347E1CB842C1B9"><div class="star"></div></a>
+				
+			</div>
+		</div>
+	</div>
+	
+	
+
+
+	<div id="job-content-2" class="main-job"> 
+		<div>
+			<div class="mobile-comp-logo">
+				<div class="comp-logo-frame">
+					<img title="" src="http://www.recruit.net/2.0/big-logos/10/1053.png">
+				</div>			
+			</div>
+			<div class="star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="D6E33EDF47416F2A"><div class="star"></div></a>
+								
+			</div>
+			<div class="job organic" id="D6E33EDF47416F2A" itemscope itemtype="http://schema.org/JobPosting">
+				<h2 itemprop="title"><a class='2' target="_blank" rel="nofollow" title="Cloud Computing (OpenStack) Software engineer" href='http://www.recruit.net/directjob.html?query=python&amp;location=china&amp;jobtitle=Cloud+Computing+%28OpenStack%29+Software+engineer&amp;region=all&amp;s=3204&amp;u=https%2Fintel.taleo.net%2Fcareersection%2F10001%2Fjobdetail.ftl%3Fjob%3D731758&amp;jobref=D6E33EDF47416F2A'>Cloud Computing (OpenStack) Software engineer</a>
+				</h2>
+				<div class="main-content">
+					<h3>
+					<span class="company">
+					<a href="/company-Intel-jobs"><span itemprop="hiringOrganization" itemscope="http://schema.org/Organization"><span itemprop="name">Intel</span></span></a></span>
+					<span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/PostalAddress">
+					
+					(<span itemprop="addressLocality">ChinaPRC</span>)
+					
+					
+					</span>
+					
+					</h3>
+					<div class="description" itemprop="description">
+						 problem analysis and solving skills, ability to work Independently. Good English written and read skills are required. Good at <b>Python</b> language is a plus...										
+					</div>
+					
+					<p class="cn_select">
+						<span class="icon-flag-CN"></span><a rel="nofollow" href="http://china.recruit.net/search.html?query=python&amp;location=china">View results from <span class="countryname">China</span> only</a></p>
+					
+										
+					<div class="source">Intel</div>
+					<div class="time" itemprop="datePosted" content="2014-03-01"> - 1 day ago<span class="visible-desktop"> - </span></div>
+					<div class="extra_options">
+						<a rel="nofollow" href="#" class="share_job">Share</a> | 
+						<a rel="nofollow" href="#" class="flag_job">Flag</a>
+						<span class="flagged_job" style="display:none">Flagged</span> |  
+						<a rel="nofollow" href="#" class="more_tools">More Tools</a>
+					</div>
+				</div>
+				
+				<div class="comp-logo">
+					<div class="comp-logo-frame">
+						<img title="" src="http://www.recruit.net/2.0/big-logos/10/1053.png">
+					</div>			
+				</div> 
+				<div class="share_job_box clear-both" style="display: none;">
+					<ul class="nav nav-tabs">
+						<li class="active">
+					    	<a rel="nofollow" href="#">Email</a>
+					  	</li>
+					  	<li><a data-jobref="D6E33EDF47416F2A" class="fb" target="_blank" rel="nofollow" href="http://www.facebook.com/sharer.php?u=http://www.recruit.net/job/cloud-computing_chinaprc_jobs/D6E33EDF47416F2A">Facebook</a></li>
+					  	<li><a data-jobref="D6E33EDF47416F2A" class="tw" target="_blank" rel="nofollow" href="http://twitter.com/share?count=none&amp;original_referer=http://www.recruit.net/job/cloud-computing_chinaprc_jobs/D6E33EDF47416F2A&amp;text=Cloud+Computing jobs in ChinaPRC on Recruit.net&amp;url=http://www.recruit.net/job/cloud-computing_chinaprc_jobs/D6E33EDF47416F2A">Twitter</a></li>
+					  	<li><a data-jobref="D6E33EDF47416F2A" class="ln" target="_blank" rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;url=http://www.recruit.net/job/cloud-computing_chinaprc_jobs/D6E33EDF47416F2A&amp;title=Cloud Computing (OpenStack) Software engineer&amp;summary=problem analysis and solving skills, ability to work Independently. Good English written and read skills are required. Good at Python language is a plus...&amp;source=Recruit.net">LinkedIn</a></li>
+					  	<li><a data-jobref="D6E33EDF47416F2A" class="gp" target="_blank" rel="nofollow" href="https://plus.google.com/share?url=http://www.recruit.net/job/cloud-computing_chinaprc_jobs/D6E33EDF47416F2A">Google+</a></li>
+					</ul>
+					<form class="email-friend" method="post">
+						<a rel="nofollow" class="close" href="#">&times;</a>
+						<div class="email-friend-title">Email this job to a friend <span class="error" style="display:none;">(You must provide valid email Address)</span><span class="success_msg" style="display: none;">(Mail sent successfully)</span></div>
+						<div class="lbl" style="width:30%">Friend's email</div> <input type="text" name="email" class="email"><br/>
+						<div class="lbl" style="width:30%">Your email:</div> <input type="text" name="your_email" class="your_email"><br/>
+						<input type="submit" class="btn" value="Send"></input>
+						<input type="hidden" name="identifier" value="2"></input>
+						<input type="hidden" name="url" value="http://www.recruit.net/job/cloud-computing_chinaprc_jobs/D6E33EDF47416F2A">
+						<input type="hidden" name="jobTitle" value="Cloud Computing (OpenStack) Software engineer"></input>
+						<input type="hidden" name="jobRef" value="D6E33EDF47416F2A"></input>
+						<input type="hidden" name="query" value="python"></input>
+						<input type="hidden" name="location1" value="china"></input>
+						<input type="hidden" name="location" value="ChinaPRC"></input>
+						<input type="hidden" name="company" value="Intel"></input>
+						<input type="hidden" name="postDate" value="20140228"></input>
+						<input type="hidden" name="locale" value="en"></input>
+						<input type="hidden" name="description" value="problem analysis and solving skills, ability to work Independently. Good English written and read skills are required. Good at Python language is a plus..."></input>	
+					</form>
+				</div>
+				<div class="flag_job_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<ul class="nav nav-pills">
+						<li class="title">Flag this job</li>
+						<li><a class="flag_this_job" reason="spam" href="#">scam/spam</a></li>
+					  	<li><a class="flag_this_job" reason="expired" href="#">expired</a></li>
+					  	<li><a class="flag_this_job" reason="broken_link" href="#">broken link</a></li>
+					  	<li><a class="flag_this_job" reason="duplicate" href="#">duplicate</a></li>
+					</ul>
+				</div>
+				<div class="more_tools_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="research">Research company on: <a class="r_google" target="_blank" rel="nofollow" href="http://www.google.com/search?q=Intel">Google</a> - <a class="r_bing" target="_blank" rel="nofollow" href="http://www.bing.com/search?q=Intel">Bing</a> - <a class="r_yahoo" target="_blank" rel="nofollow" href="http://search.yahoo.com/search?ei=UTF-8&amp;p=Intel">Yahoo</a></div>
+					<div class="find_contacts">Find contacts at this company: <a class="r_linkedin" target="_blank" rel="nofollow" href="https://www.linkedin.com/search?search=&amp;company=Intel">LinkedIn</a> - <a class="r_facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/search.php?q=Intel&amp;type=users&amp;init=srp">Facebook</a></div>
+					<div>Show Job Trends for <a target="_blank" rel="nofollow" href="http://jobindex.recruit.net/international/?q=Cloud+Computing+%28OpenStack%29+Software+engineer">Cloud Computing (OpenStack) Software engineer Job Trends</a></div>
+					<div>View job summary <a target="_blank" rel="nofollow" href="http://www.recruit.net/job/cloud-computing_chinaprc_jobs/D6E33EDF47416F2A">Cloud Computing (OpenStack) Software engineer ChinaPRC</a></div>
+				</div>
+				
+				<div id="login-D6E33EDF47416F2A" class="login-star confirmbox clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="title">Create a Recruit.net account</div>
+					<div>Save jobs and review them later. To save a job you must login:</div>
+					<div> 
+					<a class="btn btn-primary" href="http://www.recruit.net/login.html?jobRef=D6E33EDF47416F2A">Login</a>
+					<a class="btn" href="http://www.recruit.net/login.html?type=new&amp;jobRef=D6E33EDF47416F2A">Create account</a>
+					</div>			
+				</div>
+				
+				
+
+			
+				<div class="clear"></div>
+			</div>
+			<div class="mobile_star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="D6E33EDF47416F2A"><div class="star"></div></a>
+				
+			</div>
+		</div>
+	</div>
+	
+	
+
+
+	<div id="job-content-3" class="main-job"> 
+		<div>
+			<div class="mobile-comp-logo">
+				<div class="comp-logo-frame">
+					<img title="" src="http://www.recruit.net/2.0/big-logos/10/1053.png">
+				</div>			
+			</div>
+			<div class="star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="23FA280B0C9D41B4"><div class="star"></div></a>
+								
+			</div>
+			<div class="job organic" id="23FA280B0C9D41B4" itemscope itemtype="http://schema.org/JobPosting">
+				<h2 itemprop="title"><a class='3' target="_blank" rel="nofollow" title="Lead System Product Engineer" href='http://www.recruit.net/directjob.html?query=python&amp;location=china&amp;jobtitle=Lead+System+Product+Engineer&amp;region=all&amp;s=3204&amp;u=https%2Fintel.taleo.net%2Fcareersection%2F10001%2Fjobdetail.ftl%3Fjob%3D719575&amp;jobref=23FA280B0C9D41B4'>Lead System Product Engineer</a>
+				</h2>
+				<div class="main-content">
+					<h3>
+					<span class="company">
+					<a href="/company-Intel-jobs"><span itemprop="hiringOrganization" itemscope="http://schema.org/Organization"><span itemprop="name">Intel</span></span></a></span>
+					<span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/PostalAddress">
+					
+					(<span itemprop="addressLocality">ChinaPRC</span>)
+					
+					
+					</span>
+					
+					</h3>
+					<div class="description" itemprop="description">
+						 , the design and implementation of software as well as the documentation of the results. Successful applicants will bring a strong background in <b>Python</b> programming...										
+					</div>
+					
+					<p class="cn_select">
+						<span class="icon-flag-CN"></span><a rel="nofollow" href="http://china.recruit.net/search.html?query=python&amp;location=china">View results from <span class="countryname">China</span> only</a></p>
+					
+										
+					<div class="source">Intel</div>
+					<div class="time" itemprop="datePosted" content="2014-03-01"> - 15 days ago<span class="visible-desktop"> - </span></div>
+					<div class="extra_options">
+						<a rel="nofollow" href="#" class="share_job">Share</a> | 
+						<a rel="nofollow" href="#" class="flag_job">Flag</a>
+						<span class="flagged_job" style="display:none">Flagged</span> |  
+						<a rel="nofollow" href="#" class="more_tools">More Tools</a>
+					</div>
+				</div>
+				
+				<div class="comp-logo">
+					<div class="comp-logo-frame">
+						<img title="" src="http://www.recruit.net/2.0/big-logos/10/1053.png">
+					</div>			
+				</div> 
+				<div class="share_job_box clear-both" style="display: none;">
+					<ul class="nav nav-tabs">
+						<li class="active">
+					    	<a rel="nofollow" href="#">Email</a>
+					  	</li>
+					  	<li><a data-jobref="23FA280B0C9D41B4" class="fb" target="_blank" rel="nofollow" href="http://www.facebook.com/sharer.php?u=http://www.recruit.net/job/lead-system_chinaprc_jobs/23FA280B0C9D41B4">Facebook</a></li>
+					  	<li><a data-jobref="23FA280B0C9D41B4" class="tw" target="_blank" rel="nofollow" href="http://twitter.com/share?count=none&amp;original_referer=http://www.recruit.net/job/lead-system_chinaprc_jobs/23FA280B0C9D41B4&amp;text=Lead+System jobs in ChinaPRC on Recruit.net&amp;url=http://www.recruit.net/job/lead-system_chinaprc_jobs/23FA280B0C9D41B4">Twitter</a></li>
+					  	<li><a data-jobref="23FA280B0C9D41B4" class="ln" target="_blank" rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;url=http://www.recruit.net/job/lead-system_chinaprc_jobs/23FA280B0C9D41B4&amp;title=Lead System Product Engineer&amp;summary=, the design and implementation of software as well as the documentation of the results. Successful applicants will bring a strong background in Python programming...&amp;source=Recruit.net">LinkedIn</a></li>
+					  	<li><a data-jobref="23FA280B0C9D41B4" class="gp" target="_blank" rel="nofollow" href="https://plus.google.com/share?url=http://www.recruit.net/job/lead-system_chinaprc_jobs/23FA280B0C9D41B4">Google+</a></li>
+					</ul>
+					<form class="email-friend" method="post">
+						<a rel="nofollow" class="close" href="#">&times;</a>
+						<div class="email-friend-title">Email this job to a friend <span class="error" style="display:none;">(You must provide valid email Address)</span><span class="success_msg" style="display: none;">(Mail sent successfully)</span></div>
+						<div class="lbl" style="width:30%">Friend's email</div> <input type="text" name="email" class="email"><br/>
+						<div class="lbl" style="width:30%">Your email:</div> <input type="text" name="your_email" class="your_email"><br/>
+						<input type="submit" class="btn" value="Send"></input>
+						<input type="hidden" name="identifier" value="3"></input>
+						<input type="hidden" name="url" value="http://www.recruit.net/job/lead-system_chinaprc_jobs/23FA280B0C9D41B4">
+						<input type="hidden" name="jobTitle" value="Lead System Product Engineer"></input>
+						<input type="hidden" name="jobRef" value="23FA280B0C9D41B4"></input>
+						<input type="hidden" name="query" value="python"></input>
+						<input type="hidden" name="location1" value="china"></input>
+						<input type="hidden" name="location" value="ChinaPRC"></input>
+						<input type="hidden" name="company" value="Intel"></input>
+						<input type="hidden" name="postDate" value="20140213"></input>
+						<input type="hidden" name="locale" value="en"></input>
+						<input type="hidden" name="description" value=", the design and implementation of software as well as the documentation of the results. Successful applicants will bring a strong background in Python programming..."></input>	
+					</form>
+				</div>
+				<div class="flag_job_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<ul class="nav nav-pills">
+						<li class="title">Flag this job</li>
+						<li><a class="flag_this_job" reason="spam" href="#">scam/spam</a></li>
+					  	<li><a class="flag_this_job" reason="expired" href="#">expired</a></li>
+					  	<li><a class="flag_this_job" reason="broken_link" href="#">broken link</a></li>
+					  	<li><a class="flag_this_job" reason="duplicate" href="#">duplicate</a></li>
+					</ul>
+				</div>
+				<div class="more_tools_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="research">Research company on: <a class="r_google" target="_blank" rel="nofollow" href="http://www.google.com/search?q=Intel">Google</a> - <a class="r_bing" target="_blank" rel="nofollow" href="http://www.bing.com/search?q=Intel">Bing</a> - <a class="r_yahoo" target="_blank" rel="nofollow" href="http://search.yahoo.com/search?ei=UTF-8&amp;p=Intel">Yahoo</a></div>
+					<div class="find_contacts">Find contacts at this company: <a class="r_linkedin" target="_blank" rel="nofollow" href="https://www.linkedin.com/search?search=&amp;company=Intel">LinkedIn</a> - <a class="r_facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/search.php?q=Intel&amp;type=users&amp;init=srp">Facebook</a></div>
+					<div>Show Job Trends for <a target="_blank" rel="nofollow" href="http://jobindex.recruit.net/international/?q=Lead+System+Product+Engineer">Lead System Product Engineer Job Trends</a></div>
+					<div>View job summary <a target="_blank" rel="nofollow" href="http://www.recruit.net/job/lead-system_chinaprc_jobs/23FA280B0C9D41B4">Lead System Product Engineer ChinaPRC</a></div>
+				</div>
+				
+				<div id="login-23FA280B0C9D41B4" class="login-star confirmbox clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="title">Create a Recruit.net account</div>
+					<div>Save jobs and review them later. To save a job you must login:</div>
+					<div> 
+					<a class="btn btn-primary" href="http://www.recruit.net/login.html?jobRef=23FA280B0C9D41B4">Login</a>
+					<a class="btn" href="http://www.recruit.net/login.html?type=new&amp;jobRef=23FA280B0C9D41B4">Create account</a>
+					</div>			
+				</div>
+				
+				
+
+			
+				<div class="clear"></div>
+			</div>
+			<div class="mobile_star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="23FA280B0C9D41B4"><div class="star"></div></a>
+				
+			</div>
+		</div>
+	</div>
+	
+	
+
+
+	<div id="job-content-4" class="main-job"> 
+		<div>
+			<div class="mobile-comp-logo">
+				<div class="comp-logo-frame">
+					<img title="" src="http://www.recruit.net/2.0/big-logos/16/1691.png">
+				</div>			
+			</div>
+			<div class="star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="39D2E52C4ADA9402"><div class="star"></div></a>
+								
+			</div>
+			<div class="job organic" id="39D2E52C4ADA9402" itemscope itemtype="http://schema.org/JobPosting">
+				<h2 itemprop="title"><a class='4' target="_blank" rel="nofollow" title="Market Access Developer M/F - VIE Hong Kong" href='http://www.recruit.net/directjob.html?query=python&amp;location=china&amp;jobtitle=Market+Access+Developer+M%2FF+-+VIE+Hong+Kong&amp;region=all&amp;s=2015&amp;u=https%2Fcareers.societegenerale.com%2Fjob-offers%2FMarket-Access-Developer-M-F---VIE-Hong-Kong-RQ00090609-en&amp;jobref=39D2E52C4ADA9402'>Market Access Developer M/F - VIE Hong Kong</a>
+				</h2>
+				<div class="main-content">
+					<h3>
+					<span class="company">
+					<a href="/company-Societe Generale-jobs"><span itemprop="hiringOrganization" itemscope="http://schema.org/Organization"><span itemprop="name">Societe Generale</span></span></a></span>
+					<span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/PostalAddress">
+					
+					(<span itemprop="addressLocality">China</span>)
+					
+					
+					</span>
+					
+					</h3>
+					<div class="description" itemprop="description">
+						 skills. You are proficient with C++, Object Oriented Design, Scripting language (shell, perl, <b>python</b>) and networking. Linux/Unix system programming and debugging...										
+					</div>
+					
+					<p class="cn_select">
+						<span class="icon-flag-CN"></span><a rel="nofollow" href="http://china.recruit.net/search.html?query=python&amp;location=china">View results from <span class="countryname">China</span> only</a></p>
+					
+										
+					<div class="source">Societe Generale</div>
+					<div class="time" itemprop="datePosted" content="2014-03-01"> - 7 days ago<span class="visible-desktop"> - </span></div>
+					<div class="extra_options">
+						<a rel="nofollow" href="#" class="share_job">Share</a> | 
+						<a rel="nofollow" href="#" class="flag_job">Flag</a>
+						<span class="flagged_job" style="display:none">Flagged</span> |  
+						<a rel="nofollow" href="#" class="more_tools">More Tools</a>
+					</div>
+				</div>
+				
+				<div class="comp-logo">
+					<div class="comp-logo-frame">
+						<img title="" src="http://www.recruit.net/2.0/big-logos/16/1691.png">
+					</div>			
+				</div> 
+				<div class="share_job_box clear-both" style="display: none;">
+					<ul class="nav nav-tabs">
+						<li class="active">
+					    	<a rel="nofollow" href="#">Email</a>
+					  	</li>
+					  	<li><a data-jobref="39D2E52C4ADA9402" class="fb" target="_blank" rel="nofollow" href="http://www.facebook.com/sharer.php?u=http://www.recruit.net/job/market-access_china_jobs/39D2E52C4ADA9402">Facebook</a></li>
+					  	<li><a data-jobref="39D2E52C4ADA9402" class="tw" target="_blank" rel="nofollow" href="http://twitter.com/share?count=none&amp;original_referer=http://www.recruit.net/job/market-access_china_jobs/39D2E52C4ADA9402&amp;text=Market+Access jobs in China on Recruit.net&amp;url=http://www.recruit.net/job/market-access_china_jobs/39D2E52C4ADA9402">Twitter</a></li>
+					  	<li><a data-jobref="39D2E52C4ADA9402" class="ln" target="_blank" rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;url=http://www.recruit.net/job/market-access_china_jobs/39D2E52C4ADA9402&amp;title=Market Access Developer M/F - VIE Hong Kong&amp;summary=skills. You are proficient with C++, Object Oriented Design, Scripting language (shell, perl, python) and networking. Linux/Unix system programming and debugging...&amp;source=Recruit.net">LinkedIn</a></li>
+					  	<li><a data-jobref="39D2E52C4ADA9402" class="gp" target="_blank" rel="nofollow" href="https://plus.google.com/share?url=http://www.recruit.net/job/market-access_china_jobs/39D2E52C4ADA9402">Google+</a></li>
+					</ul>
+					<form class="email-friend" method="post">
+						<a rel="nofollow" class="close" href="#">&times;</a>
+						<div class="email-friend-title">Email this job to a friend <span class="error" style="display:none;">(You must provide valid email Address)</span><span class="success_msg" style="display: none;">(Mail sent successfully)</span></div>
+						<div class="lbl" style="width:30%">Friend's email</div> <input type="text" name="email" class="email"><br/>
+						<div class="lbl" style="width:30%">Your email:</div> <input type="text" name="your_email" class="your_email"><br/>
+						<input type="submit" class="btn" value="Send"></input>
+						<input type="hidden" name="identifier" value="4"></input>
+						<input type="hidden" name="url" value="http://www.recruit.net/job/market-access_china_jobs/39D2E52C4ADA9402">
+						<input type="hidden" name="jobTitle" value="Market Access Developer M/F - VIE Hong Kong"></input>
+						<input type="hidden" name="jobRef" value="39D2E52C4ADA9402"></input>
+						<input type="hidden" name="query" value="python"></input>
+						<input type="hidden" name="location1" value="china"></input>
+						<input type="hidden" name="location" value="China"></input>
+						<input type="hidden" name="company" value="Societe Generale"></input>
+						<input type="hidden" name="postDate" value="20140222"></input>
+						<input type="hidden" name="locale" value="en"></input>
+						<input type="hidden" name="description" value="skills. You are proficient with C++, Object Oriented Design, Scripting language (shell, perl, python) and networking. Linux/Unix system programming and debugging..."></input>	
+					</form>
+				</div>
+				<div class="flag_job_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<ul class="nav nav-pills">
+						<li class="title">Flag this job</li>
+						<li><a class="flag_this_job" reason="spam" href="#">scam/spam</a></li>
+					  	<li><a class="flag_this_job" reason="expired" href="#">expired</a></li>
+					  	<li><a class="flag_this_job" reason="broken_link" href="#">broken link</a></li>
+					  	<li><a class="flag_this_job" reason="duplicate" href="#">duplicate</a></li>
+					</ul>
+				</div>
+				<div class="more_tools_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="research">Research company on: <a class="r_google" target="_blank" rel="nofollow" href="http://www.google.com/search?q=Societe+Generale">Google</a> - <a class="r_bing" target="_blank" rel="nofollow" href="http://www.bing.com/search?q=Societe+Generale">Bing</a> - <a class="r_yahoo" target="_blank" rel="nofollow" href="http://search.yahoo.com/search?ei=UTF-8&amp;p=Societe+Generale">Yahoo</a></div>
+					<div class="find_contacts">Find contacts at this company: <a class="r_linkedin" target="_blank" rel="nofollow" href="https://www.linkedin.com/search?search=&amp;company=Societe+Generale">LinkedIn</a> - <a class="r_facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/search.php?q=Societe+Generale&amp;type=users&amp;init=srp">Facebook</a></div>
+					<div>Show Job Trends for <a target="_blank" rel="nofollow" href="http://jobindex.recruit.net/international/?q=Market+Access+Developer+M%2FF+-+VIE+Hong+Kong">Market Access Developer M/F - VIE Hong Kong Job Trends</a></div>
+					<div>View job summary <a target="_blank" rel="nofollow" href="http://www.recruit.net/job/market-access_china_jobs/39D2E52C4ADA9402">Market Access Developer M/F - VIE Hong Kong China</a></div>
+				</div>
+				
+				<div id="login-39D2E52C4ADA9402" class="login-star confirmbox clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="title">Create a Recruit.net account</div>
+					<div>Save jobs and review them later. To save a job you must login:</div>
+					<div> 
+					<a class="btn btn-primary" href="http://www.recruit.net/login.html?jobRef=39D2E52C4ADA9402">Login</a>
+					<a class="btn" href="http://www.recruit.net/login.html?type=new&amp;jobRef=39D2E52C4ADA9402">Create account</a>
+					</div>			
+				</div>
+				
+				
+
+			
+				<div class="clear"></div>
+			</div>
+			<div class="mobile_star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="39D2E52C4ADA9402"><div class="star"></div></a>
+				
+			</div>
+		</div>
+	</div>
+	
+	
+
+
+	<div id="job-content-5" class="main-job"> 
+		<div>
+			<div class="mobile-comp-logo">
+				<div class="comp-logo-frame">
+					<img title="" src="http://www.recruit.net/2.0/big-logos/10/1053.png">
+				</div>			
+			</div>
+			<div class="star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="244948AF7327C53D"><div class="star"></div></a>
+								
+			</div>
+			<div class="job organic" id="244948AF7327C53D" itemscope itemtype="http://schema.org/JobPosting">
+				<h2 itemprop="title"><a class='5' target="_blank" rel="nofollow" title="Sr. Software Developer" href='http://www.recruit.net/directjob.html?query=python&amp;location=china&amp;jobtitle=Sr.+Software+Developer&amp;region=all&amp;s=3204&amp;u=https%2Fintel.taleo.net%2Fcareersection%2F10001%2Fjobdetail.ftl%3Fjob%3D744177&amp;jobref=244948AF7327C53D'>Sr. Software Developer</a>
+				</h2>
+				<div class="main-content">
+					<h3>
+					<span class="company">
+					<a href="/company-Intel-jobs"><span itemprop="hiringOrganization" itemscope="http://schema.org/Organization"><span itemprop="name">Intel</span></span></a></span>
+					<span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/PostalAddress">
+					
+					(<span itemprop="addressLocality">ChinaPRC</span>)
+					
+					
+					</span>
+					
+					</h3>
+					<div class="description" itemprop="description">
+						 programming language like C# and/or Qt and/or <b>python</b>* would be an added advantage. * Knowledge of software development methodologies and techniques. Experienced in...										
+					</div>
+					
+					<p class="cn_select">
+						<span class="icon-flag-CN"></span><a rel="nofollow" href="http://china.recruit.net/search.html?query=python&amp;location=china">View results from <span class="countryname">China</span> only</a></p>
+					
+										
+					<div class="source">Intel</div>
+					<div class="time" itemprop="datePosted" content="2014-03-01"> - 13 days ago<span class="visible-desktop"> - </span></div>
+					<div class="extra_options">
+						<a rel="nofollow" href="#" class="share_job">Share</a> | 
+						<a rel="nofollow" href="#" class="flag_job">Flag</a>
+						<span class="flagged_job" style="display:none">Flagged</span> |  
+						<a rel="nofollow" href="#" class="more_tools">More Tools</a>
+					</div>
+				</div>
+				
+				<div class="comp-logo">
+					<div class="comp-logo-frame">
+						<img title="" src="http://www.recruit.net/2.0/big-logos/10/1053.png">
+					</div>			
+				</div> 
+				<div class="share_job_box clear-both" style="display: none;">
+					<ul class="nav nav-tabs">
+						<li class="active">
+					    	<a rel="nofollow" href="#">Email</a>
+					  	</li>
+					  	<li><a data-jobref="244948AF7327C53D" class="fb" target="_blank" rel="nofollow" href="http://www.facebook.com/sharer.php?u=http://www.recruit.net/job/sr.-software_chinaprc_jobs/244948AF7327C53D">Facebook</a></li>
+					  	<li><a data-jobref="244948AF7327C53D" class="tw" target="_blank" rel="nofollow" href="http://twitter.com/share?count=none&amp;original_referer=http://www.recruit.net/job/sr.-software_chinaprc_jobs/244948AF7327C53D&amp;text=Sr.+Software jobs in ChinaPRC on Recruit.net&amp;url=http://www.recruit.net/job/sr.-software_chinaprc_jobs/244948AF7327C53D">Twitter</a></li>
+					  	<li><a data-jobref="244948AF7327C53D" class="ln" target="_blank" rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;url=http://www.recruit.net/job/sr.-software_chinaprc_jobs/244948AF7327C53D&amp;title=Sr. Software Developer&amp;summary=programming language like C# and/or Qt and/or python* would be an added advantage. * Knowledge of software development methodologies and techniques. Experienced in...&amp;source=Recruit.net">LinkedIn</a></li>
+					  	<li><a data-jobref="244948AF7327C53D" class="gp" target="_blank" rel="nofollow" href="https://plus.google.com/share?url=http://www.recruit.net/job/sr.-software_chinaprc_jobs/244948AF7327C53D">Google+</a></li>
+					</ul>
+					<form class="email-friend" method="post">
+						<a rel="nofollow" class="close" href="#">&times;</a>
+						<div class="email-friend-title">Email this job to a friend <span class="error" style="display:none;">(You must provide valid email Address)</span><span class="success_msg" style="display: none;">(Mail sent successfully)</span></div>
+						<div class="lbl" style="width:30%">Friend's email</div> <input type="text" name="email" class="email"><br/>
+						<div class="lbl" style="width:30%">Your email:</div> <input type="text" name="your_email" class="your_email"><br/>
+						<input type="submit" class="btn" value="Send"></input>
+						<input type="hidden" name="identifier" value="5"></input>
+						<input type="hidden" name="url" value="http://www.recruit.net/job/sr.-software_chinaprc_jobs/244948AF7327C53D">
+						<input type="hidden" name="jobTitle" value="Sr. Software Developer"></input>
+						<input type="hidden" name="jobRef" value="244948AF7327C53D"></input>
+						<input type="hidden" name="query" value="python"></input>
+						<input type="hidden" name="location1" value="china"></input>
+						<input type="hidden" name="location" value="ChinaPRC"></input>
+						<input type="hidden" name="company" value="Intel"></input>
+						<input type="hidden" name="postDate" value="20140215"></input>
+						<input type="hidden" name="locale" value="en"></input>
+						<input type="hidden" name="description" value="programming language like C# and/or Qt and/or python* would be an added advantage. * Knowledge of software development methodologies and techniques. Experienced in..."></input>	
+					</form>
+				</div>
+				<div class="flag_job_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<ul class="nav nav-pills">
+						<li class="title">Flag this job</li>
+						<li><a class="flag_this_job" reason="spam" href="#">scam/spam</a></li>
+					  	<li><a class="flag_this_job" reason="expired" href="#">expired</a></li>
+					  	<li><a class="flag_this_job" reason="broken_link" href="#">broken link</a></li>
+					  	<li><a class="flag_this_job" reason="duplicate" href="#">duplicate</a></li>
+					</ul>
+				</div>
+				<div class="more_tools_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="research">Research company on: <a class="r_google" target="_blank" rel="nofollow" href="http://www.google.com/search?q=Intel">Google</a> - <a class="r_bing" target="_blank" rel="nofollow" href="http://www.bing.com/search?q=Intel">Bing</a> - <a class="r_yahoo" target="_blank" rel="nofollow" href="http://search.yahoo.com/search?ei=UTF-8&amp;p=Intel">Yahoo</a></div>
+					<div class="find_contacts">Find contacts at this company: <a class="r_linkedin" target="_blank" rel="nofollow" href="https://www.linkedin.com/search?search=&amp;company=Intel">LinkedIn</a> - <a class="r_facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/search.php?q=Intel&amp;type=users&amp;init=srp">Facebook</a></div>
+					<div>Show Job Trends for <a target="_blank" rel="nofollow" href="http://jobindex.recruit.net/international/?q=Sr.+Software+Developer">Sr. Software Developer Job Trends</a></div>
+					<div>View job summary <a target="_blank" rel="nofollow" href="http://www.recruit.net/job/sr.-software_chinaprc_jobs/244948AF7327C53D">Sr. Software Developer ChinaPRC</a></div>
+				</div>
+				
+				<div id="login-244948AF7327C53D" class="login-star confirmbox clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="title">Create a Recruit.net account</div>
+					<div>Save jobs and review them later. To save a job you must login:</div>
+					<div> 
+					<a class="btn btn-primary" href="http://www.recruit.net/login.html?jobRef=244948AF7327C53D">Login</a>
+					<a class="btn" href="http://www.recruit.net/login.html?type=new&amp;jobRef=244948AF7327C53D">Create account</a>
+					</div>			
+				</div>
+				
+				
+
+			
+				<div class="clear"></div>
+			</div>
+			<div class="mobile_star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="244948AF7327C53D"><div class="star"></div></a>
+				
+			</div>
+		</div>
+	</div>
+	
+	
+
+
+	<div id="job-content-6" class="main-job"> 
+		<div>
+			<div class="mobile-comp-logo">
+				<div class="comp-logo-frame">
+					
+					<img title="" src="http://www.recruit.net/2.0/c/corp-3.png">
+				</div>			
+			</div>
+			<div class="star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="51607264563C10EF"><div class="star"></div></a>
+								
+			</div>
+			<div class="job organic" id="51607264563C10EF" itemscope itemtype="http://schema.org/JobPosting">
+				<h2 itemprop="title"><a class='6' target="_blank" rel="nofollow" title="Wireless Performance Engineer (OAG)" href='http://www.recruit.net/directjob.html?query=python&amp;location=china&amp;jobtitle=Wireless+Performance+Engineer+%28OAG%29&amp;region=all&amp;s=3239&amp;u=http%2Fch.tbe.taleo.net%2FCH01%2Fats%2Fcareers%2Frequisition.jsp%3Forg%3DSEVEN%26cws%3D1%26rid%3D404&amp;jobref=51607264563C10EF'>Wireless Performance Engineer (OAG)</a>
+				</h2>
+				<div class="main-content">
+					<h3>
+					<span class="company">
+					<a href="/company-SEVEN-jobs"><span itemprop="hiringOrganization" itemscope="http://schema.org/Organization"><span itemprop="name">SEVEN</span></span></a></span>
+					<span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/PostalAddress">
+					
+					(<span itemprop="addressLocality">China</span>)
+					
+					
+					</span>
+					
+					</h3>
+					<div class="description" itemprop="description">
+						 skills in at least one high level programming language. Familiar with Shell/Perl/<b>Python</b> is a plus. - Understanding of statistical methods and data analysis - Able...										
+					</div>
+					
+					<p class="cn_select">
+						<span class="icon-flag-CN"></span><a rel="nofollow" href="http://china.recruit.net/search.html?query=python&amp;location=china">View results from <span class="countryname">China</span> only</a></p>
+					
+										
+					<div class="source">SEVEN</div>
+					<div class="time" itemprop="datePosted" content="2014-03-01"> - 2 days ago<span class="visible-desktop"> - </span></div>
+					<div class="extra_options">
+						<a rel="nofollow" href="#" class="share_job">Share</a> | 
+						<a rel="nofollow" href="#" class="flag_job">Flag</a>
+						<span class="flagged_job" style="display:none">Flagged</span> |  
+						<a rel="nofollow" href="#" class="more_tools">More Tools</a>
+					</div>
+				</div>
+				
+				<div class="share_job_box clear-both" style="display: none;">
+					<ul class="nav nav-tabs">
+						<li class="active">
+					    	<a rel="nofollow" href="#">Email</a>
+					  	</li>
+					  	<li><a data-jobref="51607264563C10EF" class="fb" target="_blank" rel="nofollow" href="http://www.facebook.com/sharer.php?u=http://www.recruit.net/job/wireless-performance_china_jobs/51607264563C10EF">Facebook</a></li>
+					  	<li><a data-jobref="51607264563C10EF" class="tw" target="_blank" rel="nofollow" href="http://twitter.com/share?count=none&amp;original_referer=http://www.recruit.net/job/wireless-performance_china_jobs/51607264563C10EF&amp;text=Wireless+Performance jobs in China on Recruit.net&amp;url=http://www.recruit.net/job/wireless-performance_china_jobs/51607264563C10EF">Twitter</a></li>
+					  	<li><a data-jobref="51607264563C10EF" class="ln" target="_blank" rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;url=http://www.recruit.net/job/wireless-performance_china_jobs/51607264563C10EF&amp;title=Wireless Performance Engineer (OAG)&amp;summary=skills in at least one high level programming language. Familiar with Shell/Perl/Python is a plus. - Understanding of statistical methods and data analysis - Able...&amp;source=Recruit.net">LinkedIn</a></li>
+					  	<li><a data-jobref="51607264563C10EF" class="gp" target="_blank" rel="nofollow" href="https://plus.google.com/share?url=http://www.recruit.net/job/wireless-performance_china_jobs/51607264563C10EF">Google+</a></li>
+					</ul>
+					<form class="email-friend" method="post">
+						<a rel="nofollow" class="close" href="#">&times;</a>
+						<div class="email-friend-title">Email this job to a friend <span class="error" style="display:none;">(You must provide valid email Address)</span><span class="success_msg" style="display: none;">(Mail sent successfully)</span></div>
+						<div class="lbl" style="width:30%">Friend's email</div> <input type="text" name="email" class="email"><br/>
+						<div class="lbl" style="width:30%">Your email:</div> <input type="text" name="your_email" class="your_email"><br/>
+						<input type="submit" class="btn" value="Send"></input>
+						<input type="hidden" name="identifier" value="6"></input>
+						<input type="hidden" name="url" value="http://www.recruit.net/job/wireless-performance_china_jobs/51607264563C10EF">
+						<input type="hidden" name="jobTitle" value="Wireless Performance Engineer (OAG)"></input>
+						<input type="hidden" name="jobRef" value="51607264563C10EF"></input>
+						<input type="hidden" name="query" value="python"></input>
+						<input type="hidden" name="location1" value="china"></input>
+						<input type="hidden" name="location" value="China"></input>
+						<input type="hidden" name="company" value="SEVEN"></input>
+						<input type="hidden" name="postDate" value="20140227"></input>
+						<input type="hidden" name="locale" value="en"></input>
+						<input type="hidden" name="description" value="skills in at least one high level programming language. Familiar with Shell/Perl/Python is a plus. - Understanding of statistical methods and data analysis - Able..."></input>	
+					</form>
+				</div>
+				<div class="flag_job_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<ul class="nav nav-pills">
+						<li class="title">Flag this job</li>
+						<li><a class="flag_this_job" reason="spam" href="#">scam/spam</a></li>
+					  	<li><a class="flag_this_job" reason="expired" href="#">expired</a></li>
+					  	<li><a class="flag_this_job" reason="broken_link" href="#">broken link</a></li>
+					  	<li><a class="flag_this_job" reason="duplicate" href="#">duplicate</a></li>
+					</ul>
+				</div>
+				<div class="more_tools_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="research">Research company on: <a class="r_google" target="_blank" rel="nofollow" href="http://www.google.com/search?q=SEVEN">Google</a> - <a class="r_bing" target="_blank" rel="nofollow" href="http://www.bing.com/search?q=SEVEN">Bing</a> - <a class="r_yahoo" target="_blank" rel="nofollow" href="http://search.yahoo.com/search?ei=UTF-8&amp;p=SEVEN">Yahoo</a></div>
+					<div class="find_contacts">Find contacts at this company: <a class="r_linkedin" target="_blank" rel="nofollow" href="https://www.linkedin.com/search?search=&amp;company=SEVEN">LinkedIn</a> - <a class="r_facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/search.php?q=SEVEN&amp;type=users&amp;init=srp">Facebook</a></div>
+					<div>Show Job Trends for <a target="_blank" rel="nofollow" href="http://jobindex.recruit.net/international/?q=Wireless+Performance+Engineer+%28OAG%29">Wireless Performance Engineer (OAG) Job Trends</a></div>
+					<div>View job summary <a target="_blank" rel="nofollow" href="http://www.recruit.net/job/wireless-performance_china_jobs/51607264563C10EF">Wireless Performance Engineer (OAG) China</a></div>
+				</div>
+				
+				<div id="login-51607264563C10EF" class="login-star confirmbox clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="title">Create a Recruit.net account</div>
+					<div>Save jobs and review them later. To save a job you must login:</div>
+					<div> 
+					<a class="btn btn-primary" href="http://www.recruit.net/login.html?jobRef=51607264563C10EF">Login</a>
+					<a class="btn" href="http://www.recruit.net/login.html?type=new&amp;jobRef=51607264563C10EF">Create account</a>
+					</div>			
+				</div>
+				
+				
+
+			
+				<div class="clear"></div>
+			</div>
+			<div class="mobile_star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="51607264563C10EF"><div class="star"></div></a>
+				
+			</div>
+		</div>
+	</div>
+	
+	
+
+
+	<div id="job-content-7" class="main-job"> 
+		<div>
+			<div class="mobile-comp-logo">
+				<div class="comp-logo-frame">
+					<img title="" src="http://www.recruit.net/2.0/big-logos/10/1053.png">
+				</div>			
+			</div>
+			<div class="star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="AA5A7EADF93EF1DD"><div class="star"></div></a>
+								
+			</div>
+			<div class="job organic" id="AA5A7EADF93EF1DD" itemscope itemtype="http://schema.org/JobPosting">
+				<h2 itemprop="title"><a class='7' target="_blank" rel="nofollow" title="IT Cloud Software Engineer Intern" href='http://www.recruit.net/directjob.html?query=python&amp;location=china&amp;jobtitle=IT+Cloud+Software+Engineer+Intern&amp;region=all&amp;s=3204&amp;u=https%2Fintel.taleo.net%2Fcareersection%2F10001%2Fjobdetail.ftl%3Fjob%3D742617&amp;jobref=AA5A7EADF93EF1DD'>IT Cloud Software Engineer Intern</a>
+				</h2>
+				<div class="main-content">
+					<h3>
+					<span class="company">
+					<a href="/company-Intel-jobs"><span itemprop="hiringOrganization" itemscope="http://schema.org/Organization"><span itemprop="name">Intel</span></span></a></span>
+					<span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/PostalAddress">
+					
+					(<span itemprop="addressLocality">ChinaPRC</span>)
+					
+					
+					</span>
+					
+					</h3>
+					<div class="description" itemprop="description">
+						 /technical areas: - Programming languages, such as PHP, <b>Python</b>. - Data Structures and Software architecture design methods and techniques. - Database Design and...										
+					</div>
+					
+					<p class="cn_select">
+						<span class="icon-flag-CN"></span><a rel="nofollow" href="http://china.recruit.net/search.html?query=python&amp;location=china">View results from <span class="countryname">China</span> only</a></p>
+					
+										
+					<div class="source">Intel</div>
+					<div class="time" itemprop="datePosted" content="2014-03-01"> - 16 days ago<span class="visible-desktop"> - </span></div>
+					<div class="extra_options">
+						<a rel="nofollow" href="#" class="share_job">Share</a> | 
+						<a rel="nofollow" href="#" class="flag_job">Flag</a>
+						<span class="flagged_job" style="display:none">Flagged</span> |  
+						<a rel="nofollow" href="#" class="more_tools">More Tools</a>
+					</div>
+				</div>
+				
+				<div class="comp-logo">
+					<div class="comp-logo-frame">
+						<img title="" src="http://www.recruit.net/2.0/big-logos/10/1053.png">
+					</div>			
+				</div> 
+				<div class="share_job_box clear-both" style="display: none;">
+					<ul class="nav nav-tabs">
+						<li class="active">
+					    	<a rel="nofollow" href="#">Email</a>
+					  	</li>
+					  	<li><a data-jobref="AA5A7EADF93EF1DD" class="fb" target="_blank" rel="nofollow" href="http://www.facebook.com/sharer.php?u=http://www.recruit.net/job/it-cloud_chinaprc_jobs/AA5A7EADF93EF1DD">Facebook</a></li>
+					  	<li><a data-jobref="AA5A7EADF93EF1DD" class="tw" target="_blank" rel="nofollow" href="http://twitter.com/share?count=none&amp;original_referer=http://www.recruit.net/job/it-cloud_chinaprc_jobs/AA5A7EADF93EF1DD&amp;text=IT+Cloud jobs in ChinaPRC on Recruit.net&amp;url=http://www.recruit.net/job/it-cloud_chinaprc_jobs/AA5A7EADF93EF1DD">Twitter</a></li>
+					  	<li><a data-jobref="AA5A7EADF93EF1DD" class="ln" target="_blank" rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;url=http://www.recruit.net/job/it-cloud_chinaprc_jobs/AA5A7EADF93EF1DD&amp;title=IT Cloud Software Engineer Intern&amp;summary=/technical areas: - Programming languages, such as PHP, Python. - Data Structures and Software architecture design methods and techniques. - Database Design and...&amp;source=Recruit.net">LinkedIn</a></li>
+					  	<li><a data-jobref="AA5A7EADF93EF1DD" class="gp" target="_blank" rel="nofollow" href="https://plus.google.com/share?url=http://www.recruit.net/job/it-cloud_chinaprc_jobs/AA5A7EADF93EF1DD">Google+</a></li>
+					</ul>
+					<form class="email-friend" method="post">
+						<a rel="nofollow" class="close" href="#">&times;</a>
+						<div class="email-friend-title">Email this job to a friend <span class="error" style="display:none;">(You must provide valid email Address)</span><span class="success_msg" style="display: none;">(Mail sent successfully)</span></div>
+						<div class="lbl" style="width:30%">Friend's email</div> <input type="text" name="email" class="email"><br/>
+						<div class="lbl" style="width:30%">Your email:</div> <input type="text" name="your_email" class="your_email"><br/>
+						<input type="submit" class="btn" value="Send"></input>
+						<input type="hidden" name="identifier" value="7"></input>
+						<input type="hidden" name="url" value="http://www.recruit.net/job/it-cloud_chinaprc_jobs/AA5A7EADF93EF1DD">
+						<input type="hidden" name="jobTitle" value="IT Cloud Software Engineer Intern"></input>
+						<input type="hidden" name="jobRef" value="AA5A7EADF93EF1DD"></input>
+						<input type="hidden" name="query" value="python"></input>
+						<input type="hidden" name="location1" value="china"></input>
+						<input type="hidden" name="location" value="ChinaPRC"></input>
+						<input type="hidden" name="company" value="Intel"></input>
+						<input type="hidden" name="postDate" value="20140212"></input>
+						<input type="hidden" name="locale" value="en"></input>
+						<input type="hidden" name="description" value="/technical areas: - Programming languages, such as PHP, Python. - Data Structures and Software architecture design methods and techniques. - Database Design and..."></input>	
+					</form>
+				</div>
+				<div class="flag_job_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<ul class="nav nav-pills">
+						<li class="title">Flag this job</li>
+						<li><a class="flag_this_job" reason="spam" href="#">scam/spam</a></li>
+					  	<li><a class="flag_this_job" reason="expired" href="#">expired</a></li>
+					  	<li><a class="flag_this_job" reason="broken_link" href="#">broken link</a></li>
+					  	<li><a class="flag_this_job" reason="duplicate" href="#">duplicate</a></li>
+					</ul>
+				</div>
+				<div class="more_tools_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="research">Research company on: <a class="r_google" target="_blank" rel="nofollow" href="http://www.google.com/search?q=Intel">Google</a> - <a class="r_bing" target="_blank" rel="nofollow" href="http://www.bing.com/search?q=Intel">Bing</a> - <a class="r_yahoo" target="_blank" rel="nofollow" href="http://search.yahoo.com/search?ei=UTF-8&amp;p=Intel">Yahoo</a></div>
+					<div class="find_contacts">Find contacts at this company: <a class="r_linkedin" target="_blank" rel="nofollow" href="https://www.linkedin.com/search?search=&amp;company=Intel">LinkedIn</a> - <a class="r_facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/search.php?q=Intel&amp;type=users&amp;init=srp">Facebook</a></div>
+					<div>Show Job Trends for <a target="_blank" rel="nofollow" href="http://jobindex.recruit.net/international/?q=IT+Cloud+Software+Engineer+Intern">IT Cloud Software Engineer Intern Job Trends</a></div>
+					<div>View job summary <a target="_blank" rel="nofollow" href="http://www.recruit.net/job/it-cloud_chinaprc_jobs/AA5A7EADF93EF1DD">IT Cloud Software Engineer Intern ChinaPRC</a></div>
+				</div>
+				
+				<div id="login-AA5A7EADF93EF1DD" class="login-star confirmbox clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="title">Create a Recruit.net account</div>
+					<div>Save jobs and review them later. To save a job you must login:</div>
+					<div> 
+					<a class="btn btn-primary" href="http://www.recruit.net/login.html?jobRef=AA5A7EADF93EF1DD">Login</a>
+					<a class="btn" href="http://www.recruit.net/login.html?type=new&amp;jobRef=AA5A7EADF93EF1DD">Create account</a>
+					</div>			
+				</div>
+				
+				
+
+			
+				<div class="clear"></div>
+			</div>
+			<div class="mobile_star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="AA5A7EADF93EF1DD"><div class="star"></div></a>
+				
+			</div>
+		</div>
+	</div>
+	
+	
+
+
+	<div id="job-content-8" class="main-job"> 
+		<div>
+			<div class="mobile-comp-logo">
+				<div class="comp-logo-frame">
+					<img title="" src="http://www.recruit.net/2.0/big-logos/11/11448.png">
+				</div>			
+			</div>
+			<div class="star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="8F2B083CEE85A735"><div class="star"></div></a>
+								
+			</div>
+			<div class="job organic" id="8F2B083CEE85A735" itemscope itemtype="http://schema.org/JobPosting">
+				<h2 itemprop="title"><a class='8' target="_blank" rel="nofollow" title="Sr Software Developer" href='http://www.recruit.net/directjob.html?query=python&amp;location=china&amp;jobtitle=Sr+Software+Developer&amp;region=all&amp;s=2903&amp;u=https%2Fciti.taleo.net%2Fcareersection%2Fjobdetail.ftl%3Fjob%3D827549%26lang%3Den&amp;jobref=8F2B083CEE85A735'>Sr Software Developer</a>
+				</h2>
+				<div class="main-content">
+					<h3>
+					<span class="company">
+					<a href="/company-Citi-jobs"><span itemprop="hiringOrganization" itemscope="http://schema.org/Organization"><span itemprop="name">Citi</span></span></a></span>
+					<span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/PostalAddress">
+					
+					(<span itemprop="addressLocality">APACChina</span>)
+					
+					
+					</span>
+					
+					</h3>
+					<div class="description" itemprop="description">
+						 Perl or <b>Python</b> is required. - Experience in database design using ER modeling tools is a plus - Strong documentation and communications skills - Outstanding...										
+					</div>
+					
+					<p class="cn_select">
+						<span class="icon-flag-CN"></span><a rel="nofollow" href="http://china.recruit.net/search.html?query=python&amp;location=china">View results from <span class="countryname">China</span> only</a></p>
+					
+										
+					<div class="source">Citi</div>
+					<div class="time" itemprop="datePosted" content="2014-03-01"> - 21 days ago<span class="visible-desktop"> - </span></div>
+					<div class="extra_options">
+						<a rel="nofollow" href="#" class="share_job">Share</a> | 
+						<a rel="nofollow" href="#" class="flag_job">Flag</a>
+						<span class="flagged_job" style="display:none">Flagged</span> |  
+						<a rel="nofollow" href="#" class="more_tools">More Tools</a>
+					</div>
+				</div>
+				
+				<div class="comp-logo">
+					<div class="comp-logo-frame">
+						<img title="" src="http://www.recruit.net/2.0/big-logos/11/11448.png">
+					</div>			
+				</div> 
+				<div class="share_job_box clear-both" style="display: none;">
+					<ul class="nav nav-tabs">
+						<li class="active">
+					    	<a rel="nofollow" href="#">Email</a>
+					  	</li>
+					  	<li><a data-jobref="8F2B083CEE85A735" class="fb" target="_blank" rel="nofollow" href="http://www.facebook.com/sharer.php?u=http://www.recruit.net/job/sr-software_apacchina_jobs/8F2B083CEE85A735">Facebook</a></li>
+					  	<li><a data-jobref="8F2B083CEE85A735" class="tw" target="_blank" rel="nofollow" href="http://twitter.com/share?count=none&amp;original_referer=http://www.recruit.net/job/sr-software_apacchina_jobs/8F2B083CEE85A735&amp;text=Sr+Software jobs in APACChina on Recruit.net&amp;url=http://www.recruit.net/job/sr-software_apacchina_jobs/8F2B083CEE85A735">Twitter</a></li>
+					  	<li><a data-jobref="8F2B083CEE85A735" class="ln" target="_blank" rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;url=http://www.recruit.net/job/sr-software_apacchina_jobs/8F2B083CEE85A735&amp;title=Sr Software Developer&amp;summary=Perl or Python is required. - Experience in database design using ER modeling tools is a plus - Strong documentation and communications skills - Outstanding...&amp;source=Recruit.net">LinkedIn</a></li>
+					  	<li><a data-jobref="8F2B083CEE85A735" class="gp" target="_blank" rel="nofollow" href="https://plus.google.com/share?url=http://www.recruit.net/job/sr-software_apacchina_jobs/8F2B083CEE85A735">Google+</a></li>
+					</ul>
+					<form class="email-friend" method="post">
+						<a rel="nofollow" class="close" href="#">&times;</a>
+						<div class="email-friend-title">Email this job to a friend <span class="error" style="display:none;">(You must provide valid email Address)</span><span class="success_msg" style="display: none;">(Mail sent successfully)</span></div>
+						<div class="lbl" style="width:30%">Friend's email</div> <input type="text" name="email" class="email"><br/>
+						<div class="lbl" style="width:30%">Your email:</div> <input type="text" name="your_email" class="your_email"><br/>
+						<input type="submit" class="btn" value="Send"></input>
+						<input type="hidden" name="identifier" value="8"></input>
+						<input type="hidden" name="url" value="http://www.recruit.net/job/sr-software_apacchina_jobs/8F2B083CEE85A735">
+						<input type="hidden" name="jobTitle" value="Sr Software Developer"></input>
+						<input type="hidden" name="jobRef" value="8F2B083CEE85A735"></input>
+						<input type="hidden" name="query" value="python"></input>
+						<input type="hidden" name="location1" value="china"></input>
+						<input type="hidden" name="location" value="APACChina"></input>
+						<input type="hidden" name="company" value="Citi"></input>
+						<input type="hidden" name="postDate" value="20140207"></input>
+						<input type="hidden" name="locale" value="en"></input>
+						<input type="hidden" name="description" value="Perl or Python is required. - Experience in database design using ER modeling tools is a plus - Strong documentation and communications skills - Outstanding..."></input>	
+					</form>
+				</div>
+				<div class="flag_job_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<ul class="nav nav-pills">
+						<li class="title">Flag this job</li>
+						<li><a class="flag_this_job" reason="spam" href="#">scam/spam</a></li>
+					  	<li><a class="flag_this_job" reason="expired" href="#">expired</a></li>
+					  	<li><a class="flag_this_job" reason="broken_link" href="#">broken link</a></li>
+					  	<li><a class="flag_this_job" reason="duplicate" href="#">duplicate</a></li>
+					</ul>
+				</div>
+				<div class="more_tools_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="research">Research company on: <a class="r_google" target="_blank" rel="nofollow" href="http://www.google.com/search?q=Citi">Google</a> - <a class="r_bing" target="_blank" rel="nofollow" href="http://www.bing.com/search?q=Citi">Bing</a> - <a class="r_yahoo" target="_blank" rel="nofollow" href="http://search.yahoo.com/search?ei=UTF-8&amp;p=Citi">Yahoo</a></div>
+					<div class="find_contacts">Find contacts at this company: <a class="r_linkedin" target="_blank" rel="nofollow" href="https://www.linkedin.com/search?search=&amp;company=Citi">LinkedIn</a> - <a class="r_facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/search.php?q=Citi&amp;type=users&amp;init=srp">Facebook</a></div>
+					<div>Show Job Trends for <a target="_blank" rel="nofollow" href="http://jobindex.recruit.net/international/?q=Sr+Software+Developer">Sr Software Developer Job Trends</a></div>
+					<div>View job summary <a target="_blank" rel="nofollow" href="http://www.recruit.net/job/sr-software_apacchina_jobs/8F2B083CEE85A735">Sr Software Developer APACChina</a></div>
+				</div>
+				
+				<div id="login-8F2B083CEE85A735" class="login-star confirmbox clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="title">Create a Recruit.net account</div>
+					<div>Save jobs and review them later. To save a job you must login:</div>
+					<div> 
+					<a class="btn btn-primary" href="http://www.recruit.net/login.html?jobRef=8F2B083CEE85A735">Login</a>
+					<a class="btn" href="http://www.recruit.net/login.html?type=new&amp;jobRef=8F2B083CEE85A735">Create account</a>
+					</div>			
+				</div>
+				
+				
+
+			
+				<div class="clear"></div>
+			</div>
+			<div class="mobile_star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="8F2B083CEE85A735"><div class="star"></div></a>
+				
+			</div>
+		</div>
+	</div>
+	
+	
+
+
+	<div id="job-content-9" class="main-job"> 
+		<div>
+			<div class="mobile-comp-logo">
+				<div class="comp-logo-frame">
+					
+					<img title="" src="http://www.recruit.net/2.0/c/corp-3.png">
+				</div>			
+			</div>
+			<div class="star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="0CF54BE5A589D74B"><div class="star"></div></a>
+								
+			</div>
+			<div class="job organic" id="0CF54BE5A589D74B" itemscope itemtype="http://schema.org/JobPosting">
+				<h2 itemprop="title"><a class='9' target="_blank" rel="nofollow" title="Scientist" href='http://www.recruit.net/directjob.html?query=python&amp;location=china&amp;jobtitle=Scientist&amp;region=all&amp;s=17066&amp;u=https%2Ftas-yahoo.taleo.net%2Fcareersection%2Fyahoo_global_cs%2Fjobdetail.ftl%3Fjob%3D1442682&amp;jobref=0CF54BE5A589D74B'>Scientist</a>
+				</h2>
+				<div class="main-content">
+					<h3>
+					<span class="company">
+					<a href="/company-Yahoo!-jobs"><span itemprop="hiringOrganization" itemscope="http://schema.org/Organization"><span itemprop="name">Yahoo!</span></span></a></span>
+					<span class="location" itemprop="jobLocation" itemscope itemtype="http://schema.org/PostalAddress">
+					
+					(<span itemprop="addressLocality">China</span>)
+					
+					
+					</span>
+					
+					</h3>
+					<div class="description" itemprop="description">
+						 Scientist Job Number: &nbsp; 1442682 &nbsp; : &nbsp; <b>China</b> &nbsp; &nbsp; &nbsp; Description &nbsp; About Yahoo Think about impacting 1 out...										
+					</div>
+					
+					<p class="cn_select">
+						<span class="icon-flag-CN"></span><a rel="nofollow" href="http://china.recruit.net/search.html?query=python&amp;location=china">View results from <span class="countryname">China</span> only</a></p>
+					
+										
+					<div class="source">Yahoo!</div>
+					<div class="time" itemprop="datePosted" content="2014-03-01"> - 8 days ago<span class="visible-desktop"> - </span></div>
+					<div class="extra_options">
+						<a rel="nofollow" href="#" class="share_job">Share</a> | 
+						<a rel="nofollow" href="#" class="flag_job">Flag</a>
+						<span class="flagged_job" style="display:none">Flagged</span> |  
+						<a rel="nofollow" href="#" class="more_tools">More Tools</a>
+					</div>
+				</div>
+				
+				<div class="share_job_box clear-both" style="display: none;">
+					<ul class="nav nav-tabs">
+						<li class="active">
+					    	<a rel="nofollow" href="#">Email</a>
+					  	</li>
+					  	<li><a data-jobref="0CF54BE5A589D74B" class="fb" target="_blank" rel="nofollow" href="http://www.facebook.com/sharer.php?u=http://www.recruit.net/job/scientist_china_jobs/0CF54BE5A589D74B">Facebook</a></li>
+					  	<li><a data-jobref="0CF54BE5A589D74B" class="tw" target="_blank" rel="nofollow" href="http://twitter.com/share?count=none&amp;original_referer=http://www.recruit.net/job/scientist_china_jobs/0CF54BE5A589D74B&amp;text=Scientist jobs in China on Recruit.net&amp;url=http://www.recruit.net/job/scientist_china_jobs/0CF54BE5A589D74B">Twitter</a></li>
+					  	<li><a data-jobref="0CF54BE5A589D74B" class="ln" target="_blank" rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;url=http://www.recruit.net/job/scientist_china_jobs/0CF54BE5A589D74B&amp;title=Scientist&amp;summary=Scientist Job Number: &nbsp; 1442682 &nbsp; : &nbsp; China &nbsp; &nbsp; &nbsp; Description &nbsp; About Yahoo Think about impacting 1 out...&amp;source=Recruit.net">LinkedIn</a></li>
+					  	<li><a data-jobref="0CF54BE5A589D74B" class="gp" target="_blank" rel="nofollow" href="https://plus.google.com/share?url=http://www.recruit.net/job/scientist_china_jobs/0CF54BE5A589D74B">Google+</a></li>
+					</ul>
+					<form class="email-friend" method="post">
+						<a rel="nofollow" class="close" href="#">&times;</a>
+						<div class="email-friend-title">Email this job to a friend <span class="error" style="display:none;">(You must provide valid email Address)</span><span class="success_msg" style="display: none;">(Mail sent successfully)</span></div>
+						<div class="lbl" style="width:30%">Friend's email</div> <input type="text" name="email" class="email"><br/>
+						<div class="lbl" style="width:30%">Your email:</div> <input type="text" name="your_email" class="your_email"><br/>
+						<input type="submit" class="btn" value="Send"></input>
+						<input type="hidden" name="identifier" value="9"></input>
+						<input type="hidden" name="url" value="http://www.recruit.net/job/scientist_china_jobs/0CF54BE5A589D74B">
+						<input type="hidden" name="jobTitle" value="Scientist"></input>
+						<input type="hidden" name="jobRef" value="0CF54BE5A589D74B"></input>
+						<input type="hidden" name="query" value="python"></input>
+						<input type="hidden" name="location1" value="china"></input>
+						<input type="hidden" name="location" value="China"></input>
+						<input type="hidden" name="company" value="Yahoo!"></input>
+						<input type="hidden" name="postDate" value="20140220"></input>
+						<input type="hidden" name="locale" value="en"></input>
+						<input type="hidden" name="description" value="Scientist Job Number: &nbsp; 1442682 &nbsp; : &nbsp; China &nbsp; &nbsp; &nbsp; Description &nbsp; About Yahoo Think about impacting 1 out..."></input>	
+					</form>
+				</div>
+				<div class="flag_job_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<ul class="nav nav-pills">
+						<li class="title">Flag this job</li>
+						<li><a class="flag_this_job" reason="spam" href="#">scam/spam</a></li>
+					  	<li><a class="flag_this_job" reason="expired" href="#">expired</a></li>
+					  	<li><a class="flag_this_job" reason="broken_link" href="#">broken link</a></li>
+					  	<li><a class="flag_this_job" reason="duplicate" href="#">duplicate</a></li>
+					</ul>
+				</div>
+				<div class="more_tools_box clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="research">Research company on: <a class="r_google" target="_blank" rel="nofollow" href="http://www.google.com/search?q=Yahoo">Google</a> - <a class="r_bing" target="_blank" rel="nofollow" href="http://www.bing.com/search?q=Yahoo">Bing</a> - <a class="r_yahoo" target="_blank" rel="nofollow" href="http://search.yahoo.com/search?ei=UTF-8&amp;p=Yahoo">Yahoo</a></div>
+					<div class="find_contacts">Find contacts at this company: <a class="r_linkedin" target="_blank" rel="nofollow" href="https://www.linkedin.com/search?search=&amp;company=Yahoo">LinkedIn</a> - <a class="r_facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/search.php?q=Yahoo&amp;type=users&amp;init=srp">Facebook</a></div>
+					<div>Show Job Trends for <a target="_blank" rel="nofollow" href="http://jobindex.recruit.net/international/?q=Scientist">Scientist Job Trends</a></div>
+					<div>View job summary <a target="_blank" rel="nofollow" href="http://www.recruit.net/job/scientist_china_jobs/0CF54BE5A589D74B">Scientist China</a></div>
+				</div>
+				
+				<div id="login-0CF54BE5A589D74B" class="login-star confirmbox clear-both" style="display: none;">
+					<a class="close" href="#">&times;</a>
+					<div class="title">Create a Recruit.net account</div>
+					<div>Save jobs and review them later. To save a job you must login:</div>
+					<div> 
+					<a class="btn btn-primary" href="http://www.recruit.net/login.html?jobRef=0CF54BE5A589D74B">Login</a>
+					<a class="btn" href="http://www.recruit.net/login.html?type=new&amp;jobRef=0CF54BE5A589D74B">Create account</a>
+					</div>			
+				</div>
+				
+				
+
+			
+				<div class="clear"></div>
+			</div>
+			<div class="mobile_star_job">
+				<a rel="nofollow" href="#" class="save_remove_job" data-job-id="0CF54BE5A589D74B"><div class="star"></div></a>
+				
+			</div>
+		</div>
+	</div>
+	
+	
+		<div id="mid_wide_unit"></div>
+	
+
+
+
+					<div id="wide_ad_unit"></div>
+					
+  
+
+
+
+
+<div id="suggested_titles" style="margin-left: 23px">
+<div class="suggested_header">
+	 Also try:	
+</div>
+<ul>
+	<li class="single"><a href="/search.html?query=Wireless+Performance+Engineer+OAG&amp;location=china">Wireless Performance Engineer (OAG)</a></li>
+
+	<li class="single"><a href="/search.html?query=Cloud+Computing+OpenStack+Software+engineer&amp;location=china">Cloud Computing (OpenStack) Software engineer</a></li>
+
+	<li class="single"><a href="/search.html?query=ETL+Specialist&amp;location=china">ETL Specialist</a></li>
+
+	<li class="single"><a href="/search.html?query=Finance+Specialist&amp;location=china">Finance Specialist</a></li>
+
+</ul></div>
+<div class="clear"></div>
+					
+					
+  
+
+
+
+
+
+
+
+
+
+	<style type="text/css">
+		.temp-close {
+			float: right; 
+			font-size: 20px; 
+			font-weight: bold; 
+			line-height: 18px; 
+			color: #000; 
+			text-shadow: 0 1px 0 #fff;
+			margin-top: -15px;
+			margin-right: -12px;
+			font-size: 15px;
+		}
+		
+		.temp-close:hover {
+			text-decoration: none;
+		}
+		
+		#another-popup-main div {
+			margin: 10px 0;
+		}
+		
+		#job-content .email-alert #alert-popup-confirm {
+			 box-shadow: 5px 5px 5px #888888; 
+			 position: absolute; 
+			 top: 115px; 
+			 width: 350px; 
+			 left: 220px; 
+			 padding: 15px;
+		}
+		
+		#job-content .email-alert #alert-popup-confirm .btn {
+			margin-left: 0;
+		}
+		
+		#another-popup-msg {
+			font-size: 15px;
+		}
+		
+		#another-popup-msg div#another-popup-msg-txt {
+			margin-top: 15px;
+		}
+		
+		.hide-permanently {
+			position: absolute;
+			font-size: 11px;
+			right: 8px;
+			bottom: 5px;
+		}
+		
+		.hide-permanently a#another-popup-hide-permanently:hover {
+			text-decoration: none;
+		}
+	</style>
+				<form id="alert-popup-confirm-form" class="email-alert visible-desktop" action="create_email_alert.html">
+					<input type="hidden" name="query" value="python">
+					<input type="hidden" name="locale" value="en">
+					<input type="hidden" name="location" value="china">
+					<input type="hidden" name="region" value="all">
+					<input type="hidden" name="pos" value="1">
+					<input type="hidden" name="days" value="1234567">
+					<input type="hidden" name="send" value="send">
+					<div id="alert-popup-confirm" class="main-alert-area" style="display: none;">
+						<a class="temp-close" href="#">&times;</a>
+						<div id="another-popup-main" style="display:none;">
+							<div class="saving-msg" style="display:none;">Saving job alert ....</div>
+							<div class="error_msg" style="display:none;"></div>
+							<div><i class="icon-envelope"></i> <b>Your email:</b></div>
+							<div>
+								<input placeholder="Your email address" name="email" type="text">
+							</div>
+							<div>
+								<button class="btn btn-success btn-create-alert" type="submit">Confirm</button>
+							</div>
+							<input type="hidden" name="language" value="en">
+						</div>
+						<div id="another-popup-msg">
+							<div>Send me new jobs everyday:</div>
+							<div><b>Python  Jobs </b></div>
+							<div id="another-popup-msg-txt">
+								<button id="alert-confirm" class="btn btn-primary">Confirm</button>
+								<button id="alert-cancel" class="btn">Remind me later</button>
+							</div>
+							<div class="hide-permanently"><a id="another-popup-hide-permanently" href="">Don't ask again</a></div>
+						</div>
+					</div>
+				</form>
+					
+					
+  
+
+
+
+
+				<form class="email-alert visible-desktop" action="create_email_alert.html">
+					<input type="hidden" name="query" value="python">
+					<input type="hidden" name="locale" value="en">
+					<input type="hidden" name="location" value="china">
+					<input type="hidden" name="region" value="all">
+					<input type="hidden" name="pos" value="1">
+					<input type="hidden" name="days" value="1234567">
+					<input type="hidden" name="send" value="send">
+					<div class="main-alert-area alert-bottom">
+						<div class="saving-msg" style="display:none;">Saving job alert ....</div>
+						<div class="error_msg" style="display:none;"></div>
+						<i class="icon-envelope"></i> <b>Get new jobs for this search</b>
+						<input placeholder="Your email address" name="email" type="text">
+						<button class="btn btn-success btn-create-alert" type="submit">Create</button>
+						<input type="hidden" name="language" value="en">
+					</div>	
+				</form>
+										
+					<div class="pagination">
+						<ul>
+						
+							
+							
+							
+								<li class="active"><a>1</a></li>
+							
+						
+							
+							
+								<li><a href="search.html?jobRef=&amp;query=python&amp;location=china&amp;postdate=&amp;hitsPerPage=10&amp;totalPages=2&amp;dedup=true&amp;sortby=relevance&amp;pageNo=2&amp;f_region=&amp;f_title=&amp;f_location=&amp;f_company=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;dup=&amp;distance=&amp;phrase=&amp;orwords=&amp;notwords=&amp;jobtitle=&amp;company=&amp;f_type=&amp;f_source=&amp;f_salary=&amp;f_experience=&amp;s=">2</a></li>
+							
+							
+						
+						
+							<li class="next"><a class="next" href="search.html?jobRef=&amp;query=python&amp;location=china&amp;postdate=&amp;hitsPerPage=10&amp;totalPages=2&amp;dedup=true&amp;sortby=relevance&amp;pageNo=2&amp;f_region=&amp;f_title=&amp;f_location=&amp;f_company=&amp;newjobs=false&amp;filter_company=false&amp;filter_agency=false&amp;companysite_filter=false&amp;dup=&amp;distance=&amp;phrase=&amp;orwords=&amp;notwords=&amp;jobtitle=&amp;company=&amp;f_type=&amp;f_source=&amp;f_salary=&amp;f_experience=&amp;s=">  Next &rarr;</a></li>
+						
+						
+						
+						<!-- Change this class to "next_inactive" when on the last page -->
+						</ul>
+					</div>
+					
+					
+  
+
+
+
+
+
+				</div>
+			
+				<div id="right-sidebar" class="visible-desktop">
+					
+  
+
+
+
+			<div class="likes">
+				<div class="fb-like" data-href="http://www.recruit.net" data-send="false" data-layout="button_count" data-width="200" data-show-faces="false"></div>
+				
+				<!-- Place this tag where you want the +1 button to render. -->
+				<div class="g-plus-holder"><div class="g-plusone" data-size="medium" data-href="http://www.recruit.net/"></div></div>
+				
+				<!-- Place this tag after the last +1 button tag. -->
+				<script type="text/javascript">
+					window.___gcfg = {
+			 			
+			 			  	
+			 			  	
+			 			  	
+			 			  	
+			 			 	lang: 'en-US'
+			 			
+			        	
+			      	};	
+				  	(function() {
+				    	var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+				    	po.src = 'https://apis.google.com/js/plusone.js';
+				    	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+				  	})();
+				</script>
+			</div>
+					<div class="clear clear-mini"></div>
+					
+
+  
+
+
+
+
+				<form class="email-alert" action="create_email_alert.html">
+					<input type="hidden" name="query" value="python">
+					<input type="hidden" name="locale" value="en">
+					<input type="hidden" name="location" value="china">
+					<input type="hidden" name="region" value="all">
+					<input type="hidden" name="pos" value="1">
+					<input type="hidden" name="days" value="1234567">
+					<input type="hidden" name="send" value="send">
+					<div class="main-alert-area alert-sidebar">
+						<a class="close" href="#">&times;</a>
+						<div class="main-alert-area-title"><i class="icon-envelope"></i> <b>Get new job alerts</b></div>
+						<div class="saving-msg" style="display:none;">Saving job alert ....</div>
+						<div class="error_msg" style="display:none;"></div>
+						<input placeholder="Your email address" name="email" type="text">
+						<button class="btn btn-success btn-create-alert" type="submit">Create</button>
+						<input type="hidden" name="language" value="en">
+					</div>	
+				</form>
+				<div class="alert-tooltip" style="display:none;">
+					<div><img src="http://cdn.recruitnet.co/2.0/img/job_alert_envelope.png"/></div>
+					Receive a daily alert of similar jobs in your email inbox.
+				</div>
+					
+					<div class="clear clear-mini"></div>
+					
+  
+
+
+
+
+				<div id="social-search-switch">
+					<div class="ss-title"><i class="icon-user"></i> <b>Social Connections</b></div>
+					<div class="ss-switch">
+						<div class="switch-label facebook-label">Facebook</div>
+						<div class="switch switch-mini" id="ss-facebook" >
+							<input name="facebook" type="checkbox"/>
+						</div>
+					</div>
+					<div class="clear clear-mini"></div>
+					
+					<div class="ss-switch">
+						<div class="switch-label linkedin-label">LinkedIn</div>
+						<div class="switch switch-mini" id="ss-linkedin" >
+							<input name="linkedin" type="checkbox"/>
+						</div>
+					</div>		
+<!-- 					<div id="quoteContainer" class="ss-title"> -->
+<!--  							<img src="/recruitnet/img/showTooltip.gif" /> -->
+<!-- 					</div>			 -->
+				</div>
+					<div class="clear clear-mini"></div>
+					<div id="narrow_ad_unit" style=""></div>														
+				</div>
+			</div>
+			
+  
+
+
+
+
+				<form class="email-alert hidden-desktop" action="create_email_alert.html">
+					<input type="hidden" name="query" value="python">
+					<input type="hidden" name="locale" value="en">
+					<input type="hidden" name="location" value="china">
+					<input type="hidden" name="region" value="all">
+					<input type="hidden" name="pos" value="1">
+					<input type="hidden" name="days" value="1234567">
+					<input type="hidden" name="send" value="send">
+					<div class="main-alert-area">
+						<a class="close" href="#">×</a>
+						<div class="main-alert-area-title"><i class="icon-envelope"></i> <b>Get new job alerts</b></div>
+						<div class="saving-msg" style="display:none;">Saving job alert ....</div>
+						<div class="error_msg" style="display:none;"></div>
+						<input placeholder="Your email address" name="email" type="text">
+						<button class="btn btn-success btn-large btn-create-alert" type="submit">Create</button>
+						<input type="hidden" name="language" value="en">
+					</div>	
+				</form>
+			
+			
+			
+
+  
+
+
+
+
+		<div id="footer" class="hidden-phone">
+			<div id="line-1"><a href="http://www.recruit.net/aboutus.html">About Us</a> | <a href="http://www.recruit.net/contactus.html">Contact Us</a> | <a href="http://www.recruit.net/browse_jobs">Browse Jobs</a> | <a href="http://www.recruit.net/employers.html">Employers</a> | <a href="http://jobindex.recruit.net/international/">Job Index</a> | <a href="http://blog.recruit.net">Blog</a> | <a href="http://www.recruit.net/popular-job-searches/">Popular job searches</a>
+				<br> <a class="visible-desktop" href="http://www.recruit.net/trending_companies.html">Trending Companies</a> <span class="visible-desktop">|</span> <a class="visible-desktop" href="http://www.recruit.net/trending_titles.html">Trending Job titles</a></div>
+			<div id="line-2">&copy; Copyright 2014 Recruit.net. <a rel="nofollow" href="http://www.recruit.net/tos.html">Terms and Conditions</a> | <a rel="nofollow" href="http://www.recruit.net/privacy.html">Privacy Policy</a></div>
+			
+			<div class="clear-footer"></div>
+			<div id="countries">
+				<div class="line"><span>
+					<a href="http://australia.recruit.net/search.html?query=python" title="Australia Jobs">Australia</a> - 
+				</span><span>
+					<a href="http://canada.recruit.net/search.html?query=python" title="Canada Jobs">Canada</a> - 
+				</span><span>
+					<a href="http://china.recruit.net/search.html?query=python" title="China Jobs">China</a> - 
+				</span><span>
+					<a href="http://hongkong.recruit.net/search.html?query=python" title="Hong Kong Jobs">Hong Kong</a> - 
+				</span><span>
+					<a href="http://india.recruit.net/search.html?query=python" title="India Jobs">India</a> - 
+				</span><span>
+					<a href="http://japan.recruit.net/search.html?query=python" title="Japan Jobs">Japan</a> - 
+				</span><span>
+					<a href="http://malaysia.recruit.net/search.html?query=python" title="Malaysia Jobs">Malaysia</a> - 
+				</span><span>
+					<a href="http://newzealand.recruit.net/search.html?query=python" title="New Zealand Jobs">New Zealand</a> - 
+				</span></div><div class="line"><span>
+					<a href="http://singapore.recruit.net/search.html?query=python" title="Singapore Jobs">Singapore</a> - 
+				</span><span>
+					<a href="http://uk.recruit.net/search.html?query=python" title="UK Jobs">UK</a> - 
+				</span><span>
+					<a href="http://usa.recruit.net/search.html?query=python" title="USA Jobs">USA</a> - 
+				</span><span>
+					<a href="http://thailand.recruit.net/search.html?query=python" title="Thailand Jobs">Thailand</a> - 
+				</span><span>
+					<a href="http://vietnam.recruit.net/search.html?query=python" title="Vietnam Jobs">Vietnam</a> - 
+				</span><span>
+					<a href="http://philippines.recruit.net/search.html?query=python" title="Philippines Jobs">Philippines</a> - 
+				</span><span>
+					<a href="http://id.recruit.net/search.html?query=python" title="Indonesia Jobs">Indonesia</a> - 
+				</span></div><div class="line"><span>
+					<a href="http://ie.recruit.net/search.html?query=python" title="Ireland Jobs">Ireland</a> - 
+				</span><span>
+					<a href="http://za.recruit.net/search.html?query=python" title="South Africa Jobs">South Africa</a> - 
+				</span><span>
+					<a href="http://nl.recruit.net/search.html?query=python" title="Netherlands Jobs">Netherlands</a> - 
+				</span><span>
+					<a href="http://www.recruit.net/search.html?query=python" title="International Jobs">International</a>
+				</span></div>
+			
+			<div class="clear-footer"></div>
+			
+			
+			<div class="clear-footer"></div>
+			<div id="locale">
+			
+				English | </a>
+			
+				<a href="?locale=zh&amp;query=python&location=china&postdate=30&hitsPerPage=10&dedup=true&jobRef=&sortby=relevance&pageNo=1&d=r">&#20013;&#25991; | </a>
+			
+				<a href="?locale=jp&amp;query=python&location=china&postdate=30&hitsPerPage=10&dedup=true&jobRef=&sortby=relevance&pageNo=1&d=r">&#26085;&#26412;&#35486; | </a>
+			
+				<a href="?locale=th&amp;query=python&location=china&postdate=30&hitsPerPage=10&dedup=true&jobRef=&sortby=relevance&pageNo=1&d=r">&#3616;&#3634;&#3625;&#3634;&#3652;&#3607;&#3618; | </a>
+			
+				<a href="?locale=vn&amp;query=python&location=china&postdate=30&hitsPerPage=10&dedup=true&jobRef=&sortby=relevance&pageNo=1&d=r">Ti&#7871;ng Vi&#7879;t | </a>
+			
+				<a href="?locale=nl&amp;query=python&location=china&postdate=30&hitsPerPage=10&dedup=true&jobRef=&sortby=relevance&pageNo=1&d=r">Nederlands</a>
+			</div>
+		</div>
+	</div>
+	<div id="footer" class="visible-phone">
+		<select id="pages">	
+			<option selected="selected">More pages</option>
+			<option value="http://www.recruit.net/aboutus.html">About Us</option>
+			<option value="http://www.recruit.net/contactus.html">Contact Us</option>
+			<option value="http://www.recruit.net/browse_jobs">Browse Jobs</option>
+			<option value="http://www.recruit.net/employers.html">Employers</option>
+			<option value="http://jobindex.recruit.net/international/">Job Index</option>
+			<option value="http://blog.recruit.net">Blog</option>
+			<option value="http://www.recruit.net/popular-job-searches/">Popular job searches</option>
+			<option value="http://www.recruit.net/trending_companies.html">Trending Companies</option>
+			<option value="http://www.recruit.net/trending_titles.html">Trending Job titles</option>			
+		</select>
+		<div id="line-2">&copy; Copyright 2014 Recruit.net.</div>
+		<div class="clear-footer"></div>
+				
+		<div class="clear-footer"></div>
+		<div id="locale">
+		
+			English | </a>
+		
+			<a href="?locale=zh&amp;query=python&location=china&postdate=30&hitsPerPage=10&dedup=true&jobRef=&sortby=relevance&pageNo=1&d=r">&#20013;&#25991; | </a>
+		
+			<a href="?locale=jp&amp;query=python&location=china&postdate=30&hitsPerPage=10&dedup=true&jobRef=&sortby=relevance&pageNo=1&d=r">&#26085;&#26412;&#35486; | </a>
+		
+			<a href="?locale=th&amp;query=python&location=china&postdate=30&hitsPerPage=10&dedup=true&jobRef=&sortby=relevance&pageNo=1&d=r">&#3616;&#3634;&#3625;&#3634;&#3652;&#3607;&#3618; | </a>
+		
+			<a href="?locale=vn&amp;query=python&location=china&postdate=30&hitsPerPage=10&dedup=true&jobRef=&sortby=relevance&pageNo=1&d=r">Ti&#7871;ng Vi&#7879;t | </a>
+		
+			<a href="?locale=nl&amp;query=python&location=china&postdate=30&hitsPerPage=10&dedup=true&jobRef=&sortby=relevance&pageNo=1&d=r">Nederlands</a>
+		</div>
+	</div>
+
+	
+  
+
+
+
+		
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=1114261; 
+var sc_invisible=1; 
+var sc_partition=10; 
+var sc_security="56e031d4"; 
+</script>
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c11.statcounter.com/counter.php?sc_project=1114261&amp;java=0&amp;security=56e031d4&amp;invisible=1" alt="counter create hit" border="0"/></a> </noscript>
+<!-- End of StatCounter Code -->
+
+<!-- Start of ChartBeat Code -->
+<script type="text/javascript">
+var _sf_async_config={uid:17457,domain:"www.recruit.net"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<!-- End of ChartBeat Code -->
+
+	
+		
+
+				
+	<script type="text/javascript" src="http://cdn.recruitnet.co/2.0/js/search-20140228.js"></script>	
+			
+  
+
+
+<script src="http://www.google.com/adsense/search/ads.js" type="text/javascript">
+</script>
+<script type="text/javascript" charset="utf-8"> 
+var pageOptions = { 
+  'pubId' : 'pub-1311040826001096',
+  'channel' : '4021628078',
+  'query' : 'python jobs in china,  International',
+  'hl' : 'en',
+  'ie' : 'utf8',
+  'oe' : 'utf8',
+  'adPage' : '1',
+  'titleBold' : false,
+  'linkColor' : '#339933',
+  'numRepeated' : 1,
+  'rolloverLinkColor' : '#00468c',
+  'rolloverLinkBold' : true
+};
+
+var wideTopAds = { 
+  'minTop' : 3,
+  'maxTop' : 3,
+  'container' : 'wide_ads_top',
+  'fontFamily' : 'arial',
+  'fontSizeTitle' : '17px',
+  'fontSizeDescription' : '13px',
+  'fontSizeDomainLink' : '13px',
+  'lines' : 2,
+  'colorTitleLink' : '#006ec7',
+  'colorText' : '#000000',
+  'colorBackground' : '#FFFFFF',
+  'adLoadedCallback' : function (containerName, adsLoaded) {
+	  if (adsLoaded) {
+		var elt = document.getElementById(containerName);
+		elt.style.margin = '15px 0 15px 20px';
+		_gaq.push(['_trackEvent', 'Google AFS ads', 'Ads were loaded','International',,'true']);
+
+	  } else {
+		  _gaq.push(['_trackEvent', 'Google AFS ads', 'No ads were loaded','International',,'true']);
+	  }
+  }
+};
+
+var wideBottomAds = { 
+  'number' : 3,	
+  'container' : 'wide_ad_unit',
+  'fontFamily' : 'arial',
+  'fontSizeTitle' : '17px',
+  'fontSizeDescription' : '13px',
+  'fontSizeDomainLink' : '13px',
+  'lines' : 2,
+  'colorTitleLink' : '#006ec7',
+  'colorText' : '#000000',
+  'colorBackground' : '#FFFFFF',
+  'adLoadedCallback' : function (containerName, adsLoaded) {
+		 if (adsLoaded) {
+			  var elt = document.getElementById(containerName);
+			  // elt.style.borderTop = '1px solid #EEE';
+			  // elt.style.padding = '10px';
+			  elt.style.margin = '10px 0 10px 20px';			  
+			  elt.style.display = 'block';
+		 }
+	}
+};
+
+
+var verticalAds = { 
+  'number' : 10,
+  'container' : 'narrow_ad_unit',
+  'fontFamily' : 'arial',
+  'fontSizeTitle' : '13px',
+  'fontSizeDescription' : '13px',
+  'fontSizeDomainLink' : '13px',
+  'lines' : 2,
+  'colorTitleLink' : '#006ec7',
+  'colorText' : '#000000'
+};
+new google.ads.search.Ads(pageOptions, wideTopAds, wideBottomAds, verticalAds);
+</script>
+
+			
+			<script id="tracking" type="text/javascript">
+(function() {
+	var trackingScript = document.createElement('script');
+	trackingScript.type = 'text/javascript';
+	trackingScript.src = ('http://cdn.recruitnet.co/2.0/js/tracking.js');
+	document.body.appendChild(trackingScript);
+})();
+</script>
+			
+	
+	<div id="email-alert-popup" style="display: none;">
+		<a class="close" target="_blank" href="#">&times;</a>
+		<h3 style="text-align:left; margin-left: 2px;"><i class="icon-mail" style="width: 30px; margin-top: -2px; font-size: 24px; color: #969ba2;"></i> Yes, email me more job leads like this one.</h3>
+		<div class="email-alert-content">
+			<span class="saving-msg" style="display:none;">(Saving job alert ....)</span>
+			<span class="error_msg" style="display:none;"></span>
+			<form id="email-alert" action="create_email_alert.html">
+				<input type="hidden" name="locale" value="en">
+				<input type="hidden" name="region" value="all">
+				<input type="hidden" name="query" value="python">
+				<input type="hidden" name="location" value="china">
+				<input type="hidden" name="pos" value="1">
+				<input type="hidden" name="days" value="1234567">
+				<input type="hidden" name="send" value="send">
+				<div id="alert-input-box">
+					<div id="alert-input" style="display: none;"> 
+						<div><input id="q" class="input-xlarge" type="text" name="query-t" value="python" placeholder="Keywords, title or company"></div>
+						<div><input id="l" class="input-xlarge" type="text" name="location-t" value="china" placeholder="City, state or location"></div>													
+					</div>
+					<div id="alert-text">
+						<div id="query-text">python Jobs</div>
+						<div id="location-text">china</div>
+					</div>
+					<div class="edit-option">
+						<a href="#" id="edit">Edit</a>
+					</div>
+				</div>
+				<div class="main-alert-area-popup">
+					<div class="input-append">
+					  	<input style="width: 360px;" class="input-xlarge" placeholder="Your email address" name="email" type="text" value="">
+					  	<button class="btn btn-primary btn-create-alert" type="submit">Go <i class="icon-white icon-play" style="margin-top: 3px;"></i></button>
+					</div>
+					<input type="hidden" name="language" value="en">
+				</div>
+				<div class="notice">You can cancel your alert at any time. We won't send you spam or sell your email address.</div>
+			</form>
+		</div>			
+	</div>
+	
+	
+	<script type="text/javascript">
+   	
+    $('#ss-facebook').on('switch-change', function (e, data) {
+    	var $el = $(data.el), value = data.value;
+    	if(value != fbOn) {
+    		var urlString = "facebooklogout.html?source=switch&email=&oauth_src=facebook&return=search.html%3Fquery%3Dpython%26location%3Dchina";
+			if(value) {
+				urlString = "facebooklogin.html?source=switch&return=search.html%3Fquery%3Dpython%26location%3Dchina";
+				_gaq.push(['_trackEvent', 'Social Connections', 'Facebook','Switch ON',,true]);
+	      	} else {
+	      		_gaq.push(['_trackEvent', 'Social Connections', 'Facebook','Switch OFF',,true]);
+	      	}
+			window.location = urlString;
+    	}
+    });
+    
+    $('#ss-linkedin').on('switch-change', function (e, data) {
+    	var $el = $(data.el), value = data.value;
+    	if(value != inOn) {
+	    	var urlString = "linkedinlogout.html?email=&oauth_src=linkedin&return=search.html%3Fquery%3Dpython%26location%3Dchina";
+	      	if(value) {
+	      		var urlString = "linkedinlogin.html?source=switch&return=search.html%3Fquery%3Dpython%26location%3Dchina";
+	      		_gaq.push(['_trackEvent', 'Social Connections', 'LinkedIn','Switch ON',,true]);
+	      	} else {
+	      		_gaq.push(['_trackEvent', 'Social Connections', 'LinkedIn','Switch OFF',,true]);	      		
+	      	}
+	      	window.location = urlString;
+    	}
+    });
+    
+    $(document).ready(function() {
+    	$("#query").focus();
+    	loadPremiumListings("python", "china", "all", "connectedgroup_rn", "1");
+    	loadPremiumListings("python", "china", "all", "feedjobvite", "1");
+    	loadPremiumListings("python", "china", "all", "groupm_rn", "1");
+    	loadPremiumListings("python", "china", "all", "feedmichaelpagesg_broadbean", "1");	
+    	loadPremiumListings("python", "china", "all", "feedroberthalfsg", "1");
+    	loadPremiumListings("python", "china", "all", "feedrgf_jobs2web", "1");
+    	loadPremiumListings("python", "china", "all", "feedmichaelpagecn_broadbean", "1");
+    	loadPremiumListings("python", "china", "all", "feedmichaelpagehk_broadbean", "1");
+    	
+    	
+    	$("#alert-popup-confirm")
+		.fadeIn("slow");
+    	_gaq.push(['_trackEvent', 'Job Search Results', 'New Job Alert Popup - Displayed', "",, true]);
+   		/* var p = $("#right-sidebar .email-alert .main-alert-area");
+   		var position = p.position();
+	  		$(".alert-tooltip")
+			.css("left", position.left + 82)
+			.css("top", position.top + 65)
+			.fadeIn("slow");
+	   		
+	   		// Hide the window after 4 seconds
+	   		window.setTimeout(function() {
+	   			$(".alert-tooltip").fadeOut("slow");
+	        }, 4000); */
+	   		   	
+	   	
+    });
+    
+    function getEmail(email) {
+    	$(".resend").text("Sending email......");
+    	$.post('/recruitnet/all/login.html', {email_add: email, type: "resend"}, function(data) {
+    		$(".resend").text("");
+    		$(".resend").text("Email sent......");
+    	});
+    }
+    
+    $(".resend").click(function(e) {
+    	getEmail('');
+    	e.preventDefault();
+    });
+    
+    
+    function loadPremiumListings(q,l,r,s,p) {
+    	$.ajax({
+   			type: "GET",
+   			url: "/recruitnet/premium_listings.html?q="+q+"&l="+l+"&r="+r+"&s="+s+"&p="+p,
+   			dataType: "html",
+   			success: function(response) {
+   				$("#" + s).html(response);
+   			},
+   			error: function(response) {
+   				
+   			}
+   		});
+    }
+    
+    
+   	
+   	
+	   	$("#starred_jobs").click(function (e) {
+	   		$("<div class='overlay'></div>")
+			.css("height", $(document).height())
+			.css("width", $(window).width())
+			.appendTo("body");
+	    	
+	    	if($(window).width() < 767) {
+	    		$("#login-starred-jobs")
+	    		.show()
+	    		.css("top", "50px")
+				.css("left", $(window).width() / 10)
+	    		.appendTo("body");        	
+	    	} else if($(window).width() > 767 && $(window).width() < 980) {
+	    		$("#login-starred-jobs")
+	    		.show()
+	    		.css("top", "50px")
+				.css("left", $(window).width() / 10)
+	    		.appendTo("body");        	
+	    	} else {
+	    		$("#login-starred-jobs")
+	    		.show()
+	    		.css("top", "200px")
+	    		.css("left", "260px")
+	    		.appendTo("body");        		
+	    	}
+	    		 
+	     	$(document).scrollTop(0);
+	     	e.preventDefault();
+	   	});
+   	
+   	
+   	
+   	
+   	$(".save_remove_job").click(function (e) {
+    	// $(".login-star").show();
+    	var jobRef = getStarJobId($(this));
+    	
+    	$("<div class='overlay'></div>")
+		.css("height", $(document).height())
+		.css("width", $(window).width())
+		.appendTo("body");
+    	
+    	if($(window).width() < 767) {
+    		$("#login-"+jobRef)
+    		.show()
+    		.css("top", "50px")
+			.css("left", $(window).width() / 10)
+    		.appendTo("body");        	
+    	} else if($(window).width() > 767 && $(window).width() < 980) {
+    		$("#login-"+jobRef)
+    		.show()
+    		.css("top", "50px")
+			.css("left", $(window).width() / 10)
+    		.appendTo("body");        	
+    	} else {
+    		$("#login-"+jobRef)
+    		.show()
+    		.css("top", "200px")
+    		.css("left", "260px")
+    		.appendTo("body");        		
+    	}
+    		 
+     	$(document).scrollTop(0);
+    	
+    	e.preventDefault();
+   	});
+        
+   	function saveJob(elem) {
+   		var serverUrl = "/recruitnet/all/save_job.html";
+   		var jobRef = getStarJobId(elem);
+   		$.post(serverUrl, {id:jobRef}, function(data) {
+   		})
+   		.complete(function() {
+   			_gaq.push(['_trackEvent', 'Job Search Results', 'Job Starred', jobRef,, true]);
+   			elem.children().addClass("starred");
+  			elem.children().removeClass("star");	
+   		});
+   	}
+   	
+   	function removeJob(elem) {
+   		var serverUrl = "/recruitnet/all/remove_job.html";
+   		var jobRef = getStarJobId(elem);
+   		$.post(serverUrl, {id:jobRef}, function(data) {
+   		})
+   		.complete(function() {
+   			_gaq.push(['_trackEvent', 'Job Search Results', 'Job Unstarred', jobRef,, true]);
+   			elem.children().addClass("star");
+   			elem.children().removeClass("starred");
+   		});
+   	}
+   	
+   	function getStarJobId(elem) {
+   		return elem.attr('data-job-id');	    		
+   	}
+   	
+   	$(".email-friend").submit(function (e) {
+   		var serverUrl = "/recruitnet/sendemail-1.jsp";
+   		var email = $(this).find(".email").val();
+   		var yourEmail = $(this).find(".your_email").val();
+   		var jobRef = $(this).find("input[name='jobRef']").val();
+   		if(isValidEmail(email) && isValidEmail(yourEmail)) {
+   			$(this).find(".error").hide();
+    		$.post(serverUrl, $(this).serialize(), function(data) {
+    		})
+    		.complete(function() {
+    			_gaq.push(['_trackEvent', 'Job Search Results', 'Job Share via Email', jobRef,, true]);    			
+    		});
+    		$(this).find(".success_msg").show();
+   		} else {
+   			$(this).find(".error").show();
+   			$(this).find(".success_msg").hide();
+   		}
+   		e.preventDefault();
+   	});
+   	
+   	$(".fb").click(function (e) {
+   		var jobRef = $(this).attr("data-jobref");
+   		_gaq.push(['_trackEvent', 'Job Search Results', 'Job Share via Facebook', jobRef,, true]);   		
+   	});
+   	
+   	$(".tw").click(function (e) {
+   		var jobRef = $(this).attr("data-jobref");
+   		_gaq.push(['_trackEvent', 'Job Search Results', 'Job Share via Twitter', jobRef,, true]);
+   	});
+   	
+   	$(".ln").click(function (e) {
+   		var jobRef = $(this).attr("data-jobref");
+   		_gaq.push(['_trackEvent', 'Job Search Results', 'Job Share via LinkedIn', jobRef,, true]);
+   	});
+   	
+   	$(".gp").click(function (e) {
+   		var jobRef = $(this).attr("data-jobref");
+   		_gaq.push(['_trackEvent', 'Job Search Results', 'Job Share via Google+', jobRef,, true]);
+   	});
+   	
+   	$(".share_job").click(function (e) {
+   		$("#"+getJobId($(this)) + " > " + ".share_job_box").toggle();
+   		e.preventDefault();
+   	});
+   	
+   	$(".flag_job").click(function (e) {
+   		$("#"+getJobId($(this)) + " > " + ".flag_job_box").toggle();
+   		e.preventDefault();
+   	});
+
+   	$(".flag_this_job").click(function (e) {
+   		var reason = $(this).attr("reason");
+   		flagJob($(this), reason);
+   		e.preventDefault();
+   	});
+   	
+   	function flagJob(elem, reason) {
+   		var serverUrl = "/recruitnet/all/flag_job.html";
+   		var jobRef = getJobId(elem);
+   		_gaq.push(['_trackEvent', 'Job Search Results', 'Job Flagged as ' + reason, jobRef,, true]);
+   		$.post(serverUrl, {id:jobRef, reason: reason}, function(data) {
+   		})
+   		.complete(function() {
+   			elem.parents(".job").find(".flagged_job").show();
+   			elem.parents(".job").find(".flag_job").hide();
+   			elem.parents(".flag_job_box").hide();
+   		});
+   	}
+   	
+   	$(".main-alert-area > .close").click(function (e) {
+   		$(this).parent().hide();
+   		$.cookie('hide_alert', "true", { domain: '.recruit.net', expires: 1, path: '/' });
+   		e.preventDefault();
+   	});
+   	
+   	$(".more_tools").click(function (e) {
+   		$("#"+getJobId($(this)) + " > " + ".more_tools_box").toggle();
+   		e.preventDefault();
+   	});
+   	
+   	$(".email-friend > .close").click(function (e) {
+   		$("#"+getJobId($(this)) + " > " + ".share_job_box").hide();
+   		e.preventDefault();
+   	});
+   	
+   	$(".login-star > .close").click(function (e) {
+   		hideLoginBox($(this));
+   		e.preventDefault();
+   	});
+   	
+   	$(".welcome-tooltip > .close").click(function (e) {
+   		$(".welcome-tooltip").hide();
+   		$.cookie('hide_welcome_tooltip', "true", { domain: '.recruit.net', path: '/' });
+   		e.preventDefault();
+   	});
+   	
+   	$(window).resize(function (e) {
+   		$(".overlay")
+		.css("height", $(document).height())
+		.css("width", $(window).width());    	
+   		
+   		
+	   		/* var p = $("#right-sidebar .email-alert .main-alert-area");
+	   		var position = p.position();
+	  		$(".alert-tooltip")
+			.css("left", position.left + 82)
+			.css("top", position.top + 65); */
+  		
+   	});
+   	
+   	$("#expired > .close").click(function (e) {
+   		$(this).parent().hide();
+   		e.preventDefault();
+   	});
+   	
+   	$(".upload-resume > .close").click(function (e) {
+   		$(this).parent().hide();
+   		$.cookie('hide_resume', "true", { domain: '.recruit.net', expires: 7, path: '/' });
+   		e.preventDefault();
+   	});
+   	
+   	$(".flag_job_box > .close").click(function (e) {
+   		$("#"+getJobId($(this)) + " > " + ".flag_job_box").hide();
+   		e.preventDefault();
+   	});
+   	
+   	$(".more_tools_box > .close").click(function (e) {
+   		$("#"+getJobId($(this)) + " > " + ".more_tools_box").hide();
+   		e.preventDefault();
+   	});
+   	
+   	$(".main-alert-area-popup > .close").click(function (e) {
+   		$(this).parents("#email-alert-popup").hide();
+   		e.preventDefault();
+   	});
+   	
+   	function hideLoginBox(elem) {
+   		elem.parent().hide();
+   		$(".overlay").hide();
+   	}
+   	
+   	function getJobRefFromURL() {
+   		return window.location.hash.replace(/^#/,"");
+   	}
+   	
+   	function getJobId(elem) {
+   		return elem.parents('.job').attr("id");
+   	}
+   	
+   	function isValidEmail(email) {
+   		var re = new RegExp("\\S+\@\\S+\\.\\S+");
+   		var m = re.exec(email);
+   		if (m == null) {
+   			return false;
+   		}
+   		return true;
+   	}
+   	
+   	$("#email-alert").submit(function(e) {
+   		createJobAlertPopup($(this));
+   		e.preventDefault();
+   	});
+   	
+   	$(".email-alert").submit(function(e) {
+   		createJobAlert($(this));
+   		e.preventDefault();
+	});
+   	
+   	function createJobAlert(elem) {
+   		var email = elem.find("input[name='email']").val();
+   		if(!isValidEmail(email)) {
+   			elem.find(".error_msg").text("Not a valid email");
+   			elem.find(".error_msg").show();
+   			return false;
+   		}
+   		elem.find(".saving-msg").show();
+   		$.ajax({
+   			type: "POST",
+   			url: elem.attr("action"),
+   			dataType: "json",
+   			data: elem.serialize(),
+   			success: function(response) {
+   				elem.find(".saving-msg").hide();	    				
+   				if(response.type=='error') {
+   					elem.find(".error_msg").text(response.message);
+   					elem.find(".error_msg").show();				
+   				} else {
+   					elem.find(".error_msg").hide();
+   					$(".main-alert-area").html("<div style='padding: 0 5px;'>" + response.message + "</div>");
+   					$.colorbox.resize();
+   					var q = elem.find("input[name='query']").val();
+   					var l = elem.find("input[name='location']").val();
+   					var r = elem.find("input[name='region']").val();
+   					
+   					var alertPos = "Results - Bottom";
+   					if(elem.find(".main-alert-area").attr("class").toLowerCase().indexOf("sidebar") >= 0)
+   			   			alertPos = "Results - Sidebar";
+   					else if(elem.attr("id") == 'alert-popup-confirm-form') 
+   						alertPos = "Results - New popup";
+   			   		
+   					_gaq.push(['_trackEvent', 'Job Search Results', 'Job Alert Created', q + " - " + l + " - " + r,, true]);
+   					_gaq.push(['_trackEvent', 'Job alert created', alertPos, q + " - " + l + " - " + r,,'true']);
+   					
+   					
+   					
+   				}		
+   				
+   				if(elem.attr("id") == 'alert-popup-confirm-form') {
+   		   		// Hide the window after 4 seconds
+   			   		window.setTimeout(function() {
+   			   		elem.find(".main-alert-area").fadeOut("slow");
+   			        }, 3000);
+   		   			
+   		   		}
+   			},
+   			error: function(response) {
+   				$(".saving-msg").hide();
+   				$(".error").text("Due to some technical difficulties we cannot process your request now. Please try again later.");
+   				$(".error").show();			
+   			}
+   		});
+   	}
+   	
+   	$(".clear_recent_searches").click(function(e) {
+   		$.removeCookie('allRecent', { path: '/' });
+   		$(this).parents(".recent_searches").hide();
+   		e.preventDefault();
+   	});
+   	
+   	$(".show_more").click(function (e) {
+   		$(this).parents(".filter").find(".other_filters").show();
+   		$(this).hide();
+   		e.preventDefault();
+   	});
+   	
+   	$(".filter_title > a").click(function (e) {
+   		$(this).find("i").toggleClass("icon-down-open icon-right-open");
+   		$(this).parents(".filter").find("div.filter_values").toggle();
+   		var visible = $(this).parents(".filter").find("div.filter_values").is(":visible");
+   		var filterClicked = $(this).parents(".filter_title").attr("class").replace(/filter_title/,"").trim();
+   		setFilter(filterClicked, visible);
+   		// var index = $(".filter").index($(this).parents(".filter"));
+   		e.preventDefault();
+   	});
+   	
+   	function setFilter(filterName, visible) {
+   		// alert(filterName + " is " + visible);
+   		$.cookie.raw = true;
+   		var openedFilter = $.cookie('opened_filter').replace(/"/g, "");
+   		if(openedFilter == null)
+   			openedFilter = "";
+   		var reg = new RegExp(filterName + "," ,"g");
+   		
+   		openedFilter = openedFilter.replace(reg, "");
+   		if(visible) {
+   			openedFilter = openedFilter + filterName+",";
+   		}
+   		if(openedFilter == "")
+   			openedFilter = ",";
+   		$.cookie('opened_filter', "\"" + openedFilter + "\"", { expires: 7, path: '/' });
+   	}
+   	
+   	$("ul.nav > li.active > a").click(function(e) {
+   		e.preventDefault();
+   	});
+   	
+   	var link = "";
+   	
+   	var fbOn = "";
+   	var inOn = "";
+   	
+   	$(document).ready(function() {
+   		fbOn = $("input[name='facebook']").prop('checked');
+   		inOn = $("input[name='linkedin']").prop('checked');
+   		
+   		var jobRef = getJobRefFromURL();
+   		if(jobRef != '') {
+	   		var jobId = $('*[data-job-id="'+jobRef+'"]');;
+	   		saveJob(jobId);
+	   		_gaq.push(['_trackEvent', 'Job Search Results', 'Job Starred - Login', jobRef,, true]);
+	   		_gaq.push(['_trackEvent', 'Job Search Results', 'Job Starred - New account', jobRef,, true]);
+   		}
+   		
+   		
+   		
+   		
+   		
+ 		var showEmailBox = true;
+ 		$(".job > h2 > a").click(function (e) {
+  			if(showEmailBox) {
+   				link = $(this).attr("href");
+    		    // $.colorbox({"href":"show_create_job_alert.html?query=python&location=china&region=all&link=" + encodeURIComponent(link), "close":""});
+    		 	var $form = $("#email-alert-popup").show();
+    		 	$("#email-alert-popup > a.close").attr("href", link);
+    		 	if($(window).width() > 767) {
+					$.colorbox({inline:true, href:$form, "close":"", onClosed:function(){$("#email-alert-popup").hide();}});
+					var q = $("#email-alert").find("input[name='query']").val();
+	  				var l = $("#email-alert").find("input[name='location']").val();
+	  				var r = $("#email-alert").find("input[name='region']").val();
+	  				_gaq.push(['_trackEvent', 'Job Search Results', 'Job Alert Popup - Displayed', q + " - " + l + " - " + r,, true]);
+	  				e.preventDefault();
+    		 	}
+    		    $.cookie('show_email_box', "true", { domain: '.recruit.net', expires: 1, path: '/' });
+    		    showEmailBox = false;    			
+   			}
+   		});
+ 		
+ 		
+ 		
+		
+   		$(".profile_link").colorbox({"close":""});
+   		
+   		
+   		$("#recent_searches > ul").find("li > a").each(function () {
+   			if($(this).text() != '') {
+   				var params = htmlEncode($(this).attr("last_search"));
+   				var elem = $(this);
+	    			$.ajax({
+		    			type: "POST",
+		    			url: "/recruitnet/get_new_job_count.jsp",
+		    			data: params,
+		    			success: function(response) {
+		    				elem.parent().find(".count").html(" - " + response);
+		    			},
+		    			error: function(response) {
+		    				$(".saving-msg").hide();
+		    				$(".error").text("Due to some technical difficulties we cannot process your request now. Please try again later.");
+		    				$(".error").show();			
+		    			}
+		    			
+		    		});
+   			}
+   		});
+
+   	});
+   	
+   	function htmlEncode(value){
+  		  	//create a in-memory div, set it's inner text(which jQuery automatically encodes)
+  		  	//then grab the encoded contents back out.  The div never exists on the page.
+  		  	return $('<div/>').text(value).html();
+  		}
+
+  		function htmlDecode(value){
+  		  	return $('<div/>').html(value).text();
+  		}
+  		
+  		$(function() {
+  			//var cache = {};
+  			$( "#query" ).autocomplete({
+  		        source: function( request, response ) {
+  		        	var q = $('#query').val();
+	            $.getJSON("suggest.html?q=" + encodeURI(q), response, function( data, status, xhr ) {			                
+	            });
+	        },
+  		      	focus: function( e, ui ) {
+  		    		return false;
+  		    	},
+  		    	delay: 0,
+  		    	open: function(e, ui) {
+  		            //using the 'open' event to capture the originally typed text
+  		            var self = $(this), val = self.val();
+  		            //saving original search term in 'data'.
+  		            self.data('searchTerm', val);
+  		        },
+  		    	select: function( e, ui ) {
+  		    		var self = $(this),
+  	                keyPressed = e.keyCode,
+  	                keyWasEnter = e.keyCode === 13,
+  	                useSelection = true,
+  	                val = self.data('searchTerm');
+  		    		$("#query").val(ui.item.value);
+  		    		if (keyPressed) {
+  		                if (keyWasEnter) {
+  		                    useSelection = true;
+  		                    e.preventDefault();
+  		                    window.setTimeout(function() {
+  		                        $('form#search').submit();
+  		                    }, 0);
+  		                }
+  		            }
+  		            return useSelection;
+  		    	},
+  		    	delay: 0
+  		    })
+  		   	.data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+  		    	ul.addClass("query-autocomplete");
+  		    	var re = new RegExp("^" + $("#query").val(), "i");
+  		    	return $( "<li>" )
+  		    		.data( "ui-autocomplete-item", item )
+  		    	    .append( "<div class='query-count'>" + item.count + " jobs</div><a>" + item.value.replace(re,"<span>$&</span>") + "</a>")
+  		    	    .appendTo( ul );
+  		    };
+  		 });
+  		
+  		
+  		$(function() {
+  			$( "#location" ).autocomplete({
+  		        source: function( request, response ) {
+	            $.getJSON("suggest_location.html?q=" + $('#location').val() + "&r=all", response );
+	        },
+	        delay: 0,
+  		      	focus: function( e, ui ) {
+  		    		return false;
+  		    	},
+  		    	select: function( e, ui ) {
+  		    		var self = $(this),
+  	                keyPressed = e.keyCode,
+  	                keyWasEnter = e.keyCode === 13,
+  	                useSelection = true,
+  	                val = self.data('searchTerm');
+  		    		$("#location").val(ui.item.value);
+  		    		if (keyPressed) {
+  		                if (keyWasEnter) {
+  		                    useSelection = true;
+  		                    e.preventDefault();
+  		                    window.setTimeout(function() {
+  		                        $('form#search').submit();
+  		                    }, 0);
+  		                }
+  		            }
+  		            return useSelection;
+  		    	}
+  		    })
+  		   	.data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+  		    	ul.addClass("location-autocomplete");
+  		    	var re = new RegExp("^" + $("#location").val(), "i");
+  		    	return $( "<li>" )
+  		    		.data( "ui-autocomplete-item", item )
+  		    	    .append( "<a>" + item.value.replace(re,"<span>$&</span>") + "</a>" )
+  		    	    .appendTo( ul );
+  		    };
+  		 });
+  		
+  		
+  		
+  		$('div').filter(function() {
+  	        return this.id.match(/google_ads_div+/);
+  	    }).css("display","block");
+   	;
+   	
+   	$(document).ready(function() {
+		$("#first").delay(500).fadeOut(500);
+		$("#second").delay(1000).fadeIn(500).delay(500).fadeOut(500);
+		$("#third").delay(2500).fadeIn(500).delay(500).fadeOut(500);
+		$("#fourth").delay(4000).fadeIn(500).delay(500).fadeOut(500);
+		$("#fifth").delay(5500).fadeIn(500).delay(500).fadeOut(500);
+		
+		
+		//SJ testing
+		//getRelatedConnectionByCompany("related_130003H5","dell");
+		//getRelatedConnectionByCompany("related_A3558856B6CA867D", "thomson reuters");
+		
+
+		
+
+	});
+   	
+   	getRelatedConnection = function(element, linkedId, counter) {
+   		$.ajax({
+   			url: "get_related_connection.html?second_degree_id=" + linkedId +"&counter=" + counter + "&u=http://www.recruit.net/search-python_in_china-jobs",
+   	  		dataType: "html",
+   	  		type: "post",
+   	  	 	success: function(data) {
+   	  	 		$('#'+element).html(data);
+   	  	 		var stringLen = $.trim(data).length;
+   	  	 		if(stringLen > 1000) {
+   	  	 			$('#job-content-' + counter).addClass("job-content");
+   	  	 			$('#'+element).show();
+   	  	 		}
+   	  	 	}
+   		});
+   	};
+   	//Added New parameter to show the Linked In data
+   	getRelatedConnectionByCompany= function(element, companyName, counter) {
+   		jQuery.ajax({
+   			url: "get_connections.html?r=all&c=" + escape(companyName) +"&counter="+counter+ "&u=http://www.recruit.net/search-python_in_china-jobs",
+   			dataType: "html",
+   	  		type: "post",
+   	  	 	success: function(data) {
+   	  	 	    $('#'+element).html(data);
+   	  	 		var stringLen = $.trim(data).length;
+	  	 		if(stringLen > 1000) {
+	  	 			$('#job-content-' + counter).addClass("job-content");
+	  	 			$('#'+element).show();
+	  	 		}
+   	  	 	}
+   		});
+   	};
+   	
+   	
+   	$("#email-alert-popup > .close").click(function (e) {
+   		$.colorbox.close();
+		
+	});
+	
+	$("#edit").click(function(e) {
+		e.preventDefault();
+		$("#alert-input").toggle();
+		$("#alert-text").toggle();
+		if($(this).text() == 'Edit')
+			$(this).text("Save");
+		else {
+			$(this).text('Edit');
+			if($("#q").val() != '') {
+				$("#query-text").text($("#q").val() + " Jobs");
+				$("#email-alert").find("input[name='query']").val($("#q").val());
+			}	
+			
+			$("#location-text").text($("#l").val());
+			$("#email-alert").find("input[name='location']").val($("#l").val());
+			
+		}
+		$.colorbox.resize();
+	});
+	
+	$("#email-alert-popup").submit(function(e) {
+		createJobAlertPopup($(this));
+		$.colorbox.resize();
+		e.preventDefault();
+	});
+	
+	function createJobAlertPopup(elem) {
+		var email = elem.find("input[name='email']").val();
+		if(!isValidEmail(email)) {
+			elem.find(".error_msg").text("(Not a valid email)");
+			elem.find(".error_msg").show();
+			return false;
+		} else {
+			elem.find(".error_msg").hide();
+		}
+		elem.find(".saving-msg").show();
+		$.ajax({
+			type: "POST",
+			url: elem.attr("action"),
+			dataType: "json",
+			data: elem.serialize(),
+			success: function(response) {
+				$(".saving-msg").hide();
+				if(response.type=='error') {
+					$(".saving-msg").hide();
+					$(".error_msg").text("("+response.message+")");
+					$(".error_msg").show();
+				} else {
+					$(".error_msg").hide();
+					$("#email-alert-popup > h3").hide();
+					$("#email-alert-popup .close").hide();
+					
+					var showAlertText = "<i style='width: 26px; float: left; font-size: 24px; color: green;' class='icon-ok-circle'></i>" + 
+										"<h4 style='text-align: left;'>Confirmation email sent to <span style='color: #006ec7;'>" + email + "</span></h4>" +
+										"<div style='text-align: left;'>Check your email and click on the link to start receiving your job alerts</div>";
+					
+					$("#alert-input-box").html(showAlertText);
+					
+					var showAlertText = "<div><img src='http://cdn.recruitnet.co/2.0/img/redirecting.gif'/></div>" + 
+										"<div><b>You are now being redirected to the job listing</b></div>";
+					$(".main-alert-area-popup").html(showAlertText);
+					$(".email-alert-content #alert-input-box").css("margin-left", 0);
+					$(".email-alert-content > .notice").css("margin", 0);
+					var q = elem.find("input[name='query']").val();
+	  				var l = elem.find("input[name='location']").val();
+	  				var r = elem.find("input[name='region']").val();
+   					_gaq.push(['_trackEvent', 'Job Search Results', 'Job Alert Created - PopUp', q + " - " + l + " - " + r,, true]);
+   					_gaq.push(['_trackEvent', 'Job alert created', 'Results - Popup', q + " - " + l + " - " + r,,'true']);
+   					
+   					$.colorbox.resize();
+					window.setTimeout(function() { window.location = link; }, 3000);
+					
+					
+				}					
+			}
+		});
+
+	}
+   	
+   	(function($) {
+   	    $.fn.changeElementType = function(newType) {
+   	        var attrs = {};
+   	        $.each(this[0].attributes, function(idx, attr) {
+   	            attrs[attr.nodeName] = attr.nodeValue;
+   	        });
+   	        this.replaceWith(function() {
+   	            return $("<" + newType + "/>", attrs).append($(this).contents());
+   	        });
+   	    };
+   	})(jQuery);
+   	
+   	function changeDistance(distance) {
+   		var url = $(location).attr("href");
+   		var check = url.indexOf("distance=");
+   		var urlSpatial;
+   		if(check < 0) {
+   			urlSpatial = url+"&distance="+$(distance).val();
+   		} else {
+   			urlSpatial = url.replace(/(distance=)[^\&]+/, '$1'+$(distance).val());
+   		}
+   		location = urlSpatial;
+   	}
+   	
+   	$(".research > a").click(function (e) {
+   		trackOutboundLink($(this),"OutBound Links", "Researched on " + $(this).attr("class"));
+   		e.preventDefault();
+   	});
+   	
+   	$(".find_contacts > a").click(function (e) {
+   		trackOutboundLink($(this),"OutBound Links", "Search for contacts on " + $(this).attr("class"));
+   		e.preventDefault();
+   	});
+   	
+   	$("#suggested_cities > ul > li > a").click(function (e) {
+   		trackOutboundLink($(this),"OutBound Links", "Suggested cities - " + $(this).text());
+   		e.preventDefault();
+   	});
+   	
+   	$("#suggested_titles > ul > li > a").click(function (e) {
+   		trackOutboundLink($(this),"OutBound Links", "Suggested titles - " + $(this).text());
+   		e.preventDefault();
+   	});
+   	
+   	$(".sponsored > h2 > a").click(function (e) {
+   		_gaq.push(['_trackEvent', 'Job Search Results', 'Sponsored Job - ' + $(this).attr("class"),$(this).text(),15,'true']);
+   		
+   		
+   	});
+   	
+   	$("#another-popup-msg > div > #alert-confirm").click(function(e) {
+		$(this).parents("#another-popup-msg").hide();
+		$(this).parents("#another-popup-msg").prev().show();
+		e.preventDefault();
+	});
+   	
+   	$("#another-popup-msg > div > #alert-cancel").click(function(e) {
+   		$(this).parents(".main-alert-area").fadeOut("slow");
+   		$("#space-holder").hide();
+   		e.preventDefault();
+	});
+   	
+   	$(".main-alert-area > .temp-close").click(function (e) {
+   		$(this).parent().fadeOut("slow");
+   		$("#space-holder").hide();
+   		var expires = new Date();
+   		expires.setMinutes( expires.getMinutes() + 60 );
+   		$.cookie('hide_email_tooltip', "true", { domain: '.recruit.net', expires: expires, path: '/'});
+   		e.preventDefault();
+   	});
+   	
+   	$("#another-popup-hide-permanently").click(function (e) {
+   		$(this).parents(".main-alert-area").fadeOut("slow");
+   		$("#space-holder").hide();
+   		var expires = new Date();
+   		expires.setMinutes( expires.getMinutes() + 60 );
+   		$.cookie('hide_email_tooltip', "true", { domain: '.recruit.net', expires: 7, path: '/' });
+   		e.preventDefault();
+   	});
+   	
+   	$(".organic > h2 > a").click(function (e) {
+   		var page = "1";
+   		var rank = parseInt($(this).attr("class"))+ 1;
+   		var href = $(this).attr("href");
+   		if (href.toLowerCase().indexOf("sponsorjob") >= 0) {
+   			_gaq.push(['_trackEvent', 'Job Search Results', 'Sponsored Job - O+ - ' + rank,$(this).text(),15,'true']);
+   			
+   			
+   		}
+   		_gaq.push(['_trackEvent', 'Job Search Results', 'Organic Job - Page - ' + page + " Rank - " + rank,$(this).text(),,'true']);
+   	});
+   	
+   	function trackOutboundLink(link, category, action) {
+   		try {
+   			_gaq.push(['_trackEvent', category, action]);
+   		} catch(err) {}
+   		setTimeout(function() {
+   			document.location.href = link.attr("href");
+   		}, 100);
+   	}  	
+   	
+   </script>
+			
+<div id="social-splash-screen" style="display:none;">
+	<div class="close"><img src="http://cdn.recruitnet.co/2.0/img/close.png"/></div>
+	<div class="title">Find out who you know</div>
+	<div class="description">
+		Discover inside connections for jobs at top companies from friends and contacts
+	</div>
+	<div class="image">
+		<img src="http://cdn.recruitnet.co/2.0/img/social-connection.png"/>
+	</div>
+	
+	<div class="button">
+		<a href="linkedinlogin.html?source=switch&return=search.html%3Fquery%3Dpython%26location%3Dchina" class="btn btn-in"><span><input type="checkbox" name="linkedin" value="true"></span> <i class="icon-linkedin"></i> Connect with LinkedIn</a>
+	</div>
+	<div class="button">
+		<a href="facebooklogin.html?source=switch&return=search.html%3Fquery%3Dpython%26location%3Dchina" class="btn btn-fb"><span><input type="checkbox" name="facebook" value="true"></span> <i class="icon-facebook"></i>Connect with Facebook</a>
+	</div>
+</div>
+<script type="text/javascript">
+	// change this to false before going live
+	var isFlyoutVisible = false;
+	$("#header > .visible-phone > input").focus(function(e) {
+		hideLogo();
+	});
+	
+	$("#header > .visible-phone > input").blur(function(e) {
+		showLogo();
+	});
+	
+	$("#social-splash-screen > .close").click(function(e) {
+		$(this).parent().hide();
+		$(".alertboxbg").hide();
+		e.preventDefault();
+	});
+	
+	$("#flyout-btn").click(function(e) {
+		if(!isFlyoutVisible) showFlyout();
+		// $("#flyout").animate({width: 'toggle'});
+		e.preventDefault();
+	});
+	
+	$("#content").click(function(e) {
+		if(isFlyoutVisible) {
+			hideFlyout();
+			e.preventDefault();
+		}
+	});
+	
+	function hideLogo() {
+		$("#header > .branding-phone#branding").addClass("hide-from-all");
+		$("#header > .branding-phone#branding").removeClass("visible-phone");
+		// $("#header > .visible-phone#search > input").css("width","65%");
+		if($(window).width() < 767) {
+			$("input[id^=query]").css("width","65%");
+		}
+	}
+	
+	function showLogo() {
+		$("#header > .branding-phone#branding").removeClass("hide-from-all");
+		$("#header > .branding-phone#branding").addClass("visible-phone");
+		//$("#header > .visible-phone#search > input#query").css("width","20%");
+		if($(window).width() < 767) {
+			$("input[id^=query]").css("width","20%");
+		}
+	}
+	
+	function toggleFlyout() {
+		if(isFlyoutVisible)
+			hideFlyout();
+		else 
+			showFlyout();
+	}
+	
+	function showFlyout() {
+		if(!$("#flyout").is(":visible")) {
+			$("#flyout").removeClass("hide-from-all");
+			$("#flyout").addClass("hidden-desktop");			
+		}
+		$("#content" ).animate({"left": "+=250px" }, 100, "linear",function() {
+			isFlyoutVisible = true;
+			$("#content").css("position","fixed"); 
+		});		
+	}
+	
+	function hideFlyout() {
+		if(isFlyoutVisible) {
+			$("#content" ).animate({"left": "-=250px" }, 100, "linear",function() {
+				isFlyoutVisible = false
+				$("#content").css("position","absolute"); 
+			});		
+		}
+	}
+	
+	$("#social-conn").click(function(e) {
+		console.log("Social connection");
+		$("<div class='alertboxbg'></div>")
+		.css("height", $(document).height())
+		.css("width", $(window).width())
+		.appendTo("body");
+		
+		$("#social-splash-screen")
+		.css("top", "50px")
+		.css("left", $(window).width() / 10)
+		.show()
+		.appendTo("body");		
+		e.preventDefault();
+	});
+	
+	$("#tablet-social-conn").click(function(e) {
+		console.log("Social connection");
+		$("<div class='alertboxbg'></div>")
+		.css("height", $(document).height())
+		.css("width", $(window).width())
+		.appendTo("body");
+		
+		$("#social-splash-screen")
+		.css("top", "50px")
+		.css("left", $(window).width() / 10)
+		.show()
+		.appendTo("body");		
+		e.preventDefault();
+	});
+	
+	$(window).resize(function (e) {
+   		$(".alertboxbg")
+		.css("height", $(document).height())
+		.css("width", $(window).width());
+   		
+   		$("#social-splash-screen")
+		.css("top", "50px")
+		.css("left", $(window).width() / 10);
+   	});
+
+</script>
+			<script type="text/javascript">
+				// Track this search.
+				_gaq.push(['_trackEvent', 'Search', 'International','python jobs',,'true']);
+
+				
+				
+				
+				
+			</script>
+				
+	</body>
+</html>
+<noscript>
+	<link rel='stylesheet' type='text/css' href="http://cdn.recruitnet.co/2.0/css/search-20140228.css">
+	<link rel='stylesheet' type='text/css' href="http://cdn.recruitnet.co/2.0/css/fontello-20140228.css">
+</noscript>

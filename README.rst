@@ -35,7 +35,12 @@ Sampe Usage
 
 Sample Usage is::
     
+    Command line input:
+
     python jobseeker.py search -k python -l singapore -n 2
+    
+    Command line output
+    
     ===============================================================================
     ID: 1    Source: JP Morgan Chase                      Posted: 22 days ago
     -------------------------------------------------------------------------------
