@@ -38,7 +38,7 @@ class JobItem:
         self.post_time = post_time
 
 
-def extract_job_items(url, params):
+def extract_job_items(url, params, max_no):
 
     job_items=[]
     res = perform_http_request(url, params)
@@ -76,11 +76,14 @@ def extract_job_items(url, params):
     
     #check for the link next
     link_to_next_page= d('div').filter('.pagination').find('a').filter('.next')
+    
+    if len(job_items) >= max_no:
+        return job_items
 
     if link_to_next_page and (link_to_next_page.attr.disabled is None):
         href_to_next_page=link_to_next_page.attr.href
         logging.info('next page href: \n%s' % href_to_next_page)
-        return job_items + extract_job_items(BASE_URL + '/' + href_to_next_page, None)
+        return job_items + extract_job_items(BASE_URL + '/' + href_to_next_page, None, max_no - len(job_items))
     else:
         return job_items
 
@@ -103,7 +106,7 @@ def perform_http_request(url, params=None):
 
 def get_jobsearch_result(url, params, max_no):
         
-        job_items = extract_job_items(url, params)
+        job_items = extract_job_items(url, params, max_no)
 
         for index, job_item in enumerate(job_items[:max_no]):
             print (CONSOLE_OUTPUT_TEMPLATE % (index+1, job_item.source, job_item.post_time, 

@@ -31,6 +31,7 @@ setup(
     package_dir={'jobseeker': 'jobseeker'},
     include_package_data=True,
     install_requires=[
+        'pyquery', 'requests', 'pytest'
     ],
     license="BSD",
     zip_safe=False,
@@ -43,8 +44,6 @@ setup(
         "Programming Language :: Python :: 2",
         'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',
-        'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.3',
     ],
     test_suite='tests',
 )
