@@ -135,3 +135,9 @@ optional arguments:
     -U, --use_agency                     indicator for where headhunder should be used
     -c COMPANY, --company COMPANY        company name to limit the job search with
     -n MAX_NO, --max_no MAX_NO           max number of jobs to display
+
+Continious Integration - Travis CI build
+---------
+
+Travis CI Build: https://travis-ci.org/mengfeng/jobseeker
+
