@@ -79,7 +79,6 @@ def extract_job_items(url, params, max_no):
     
     if len(job_items) >= max_no:
         return job_items
-
     if link_to_next_page and (link_to_next_page.attr.disabled is None):
         href_to_next_page=link_to_next_page.attr.href
         logging.info('next page href: \n%s' % href_to_next_page)
@@ -107,7 +106,7 @@ def perform_http_request(url, params=None):
 def get_jobsearch_result(url, params, max_no):
         
         job_items = extract_job_items(url, params, max_no)
-
+        job_items.sort( key=lambda job_item: int(job_item.post_time) if job_item.post_time.isdigit() else 100 )
         for index, job_item in enumerate(job_items[:max_no]):
             print (CONSOLE_OUTPUT_TEMPLATE % (index+1, job_item.source, job_item.post_time, 
                                                     job_item.title, job_item.company, job_item.location, 
