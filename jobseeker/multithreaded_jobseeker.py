@@ -57,7 +57,6 @@ class JobExtractionThread(threading.Thread):
         
         d = pq(res.text)
         for index, job_item_pq_obj in enumerate(d('div').filter('.job')):
-            
             d_job_item = pq(job_item_pq_obj)
 
             item_link = d_job_item.find('h2').find('a')
@@ -94,7 +93,7 @@ class JobExtractionThread(threading.Thread):
 
 
 
-def extract_all_job_items(url, params):
+def extract_all_job_items(url, params, max_no):
 
         job_items=[]
         res = perform_http_request(url, params)
@@ -102,10 +101,15 @@ def extract_all_job_items(url, params):
             return []   
         
         total_pages = int(re.search(r'totalPages=(\d+)', res.text).group(1))
+        records_per_page = int(re.search(r'hitsPerPage=(\d+)', res.text).group(1))
         logging.info('total_pages:' + str(total_pages))
+        logging.info('records_per_page' + str(records_per_page))
 
         threads_pool = []
-        for i in range(1, total_pages + 1):
+        
+        no_page_required = max_no/records_per_page if max_no % records_per_page == 0 else max_no/records_per_page + 1
+        
+        for i in range(1, min(no_page_required, total_pages)+1):
            new_thread_params = params.copy()
            new_thread_params['pageNo'] = i
            #print 'params to start with', params
@@ -137,7 +141,7 @@ def perform_http_request(url, params=None):
 
 def get_jobsearch_result(url, params, max_no):
         
-        job_items = extract_all_job_items(url, params)
+        job_items = extract_all_job_items(url, params, max_no)
         job_items.sort( key=lambda job_item: int(job_item.post_time) if job_item.post_time.isdigit() else 100 )
         for index, job_item in enumerate(job_items[:max_no]):
             print (CONSOLE_OUTPUT_TEMPLATE % (index+1, job_item.source, job_item.post_time, 
