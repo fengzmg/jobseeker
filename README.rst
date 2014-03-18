@@ -28,7 +28,7 @@ Features
 --------
 * One stop shop for all jobs listed in various companies
 * Underlying, recruit.net is used as the major source
-
+* Muli-Threaded search processing that allows large data set
 
 Sampe Usage
 --------
@@ -37,8 +37,8 @@ Sample Usage is::
     
     Command line input:
 
-    python jobseeker.py search -k python -l singapore -n 2
-    
+    [1-Single Threaded] python jobseeker.py search -k python -l singapore -n 2
+    [2-Multi Threaded]  python multithreaded_jobseeker.py search -k python -l singapore -n 2 
     Command line output
     
     ===============================================================================
@@ -66,8 +66,8 @@ Another Sample Usage::
     
     Command line input:
 
-    python jobseeker.py search -k 'python java' -l London -n 4
-
+    [1-Single Threaded] python jobseeker.py search -k 'python java' -l London -n 4
+    [2-Multi Threaded]  python multithreaded_jobseeker.py search -k 'python java' -l London -n 4
     Command line output:
 
 
